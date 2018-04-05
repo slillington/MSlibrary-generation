@@ -1,0 +1,962 @@
+﻿From,To,Term,Result,Score
+Chemical Name,InChIKey,"O-Succinyl-L-homoserine","GNISQJGXJIDKDJ-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)","LYCAIKOWRPUZTN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)","UZNYMWWMHBZMLI-IOLBBIBUSA-K",1
+Chemical Name,InChIKey,"Pyridoxal","RADKZDMFGJYCBB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cyanate","XLJMAIOERFSOGZ-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"UDP-D-glucuronate","HDYANYHVCAPMJV-LXQIFKJMSA-N",1
+Chemical Name,InChIKey,"Guanosine 3  phosphate C10H12N5O8P","UYTPUPDQBNUYGX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Trans-Dec-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1D-myo-Inositol 1-phosphate","INAPMGSXUVUWAF-GCVPSNMTSA-N",0
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)","IACXMECMZISNLR-DLBZAZTESA-M",1
+Chemical Name,InChIKey,"Sedoheptulose 7-phosphate","JDTUMPKOJBQPKX-GBNDHIKLSA-N",1
+Chemical Name,InChIKey,"(S)-3-Hydroxydecanoyl-CoA","HIVSMYZAMUNFKZ-PNPVFPMQSA-N",1
+Chemical Name,InChIKey,"Periplasmic protein disulfide isomerase I (oxidized)","AGPKZVBTJJNPAG-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"L-Ascorbate","CIWBSHSKHKDKBQ-JLAZNSOCSA-N",1
+Chemical Name,InChIKey,"Phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"L-Fucose","SHZGCJCMOBCMKK-DHVFOXMCSA-N",1
+Chemical Name,InChIKey,"Dihydroneopterin","YQIFAMYNGGOTFB-XINAWCOVSA-N",1
+Chemical Name,InChIKey,"D-Mannonate","RGHNJXZEOKUKBD-MBMOQRBOSA-N",1
+Chemical Name,InChIKey,"Silver","BQCADISMDOOEFD-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C14:1)","FVJZSBGHRPJMMA-DHPKCYQYSA-N",0
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3  CMP C9H12N3O8P","IERHLVCPSMICTF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]","XLYOFNOQVPJJNP-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Nitric oxide","MWUXSHHQAYIFBG-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Pyruvate","LCTONWCANYUPML-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"D-Xylulose 5-phosphate","FNZLKVNUWIIPSJ-RFZPGFLSSA-N",1
+Chemical Name,InChIKey,"Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)","MEAZTWJVOWHKJM-CIAPRIGGSA-N",1
+Chemical Name,InChIKey,"4-Phospho-D-erythronate","ZCZXOHUILRHRQJ-PWNYCUMCSA-N",1
+Chemical Name,InChIKey,"Hydrogen peroxide","MHAJPDPJQMAIIY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-Methyltetrahydrofolate","ZNOVTXRBGFNYRX-STQMWFEESA-N",1
+Chemical Name,InChIKey,"Sulfur","NINIDFKCEFEMDL-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"TRNA Asn  C10H17O10PR2","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Enterochelin","SERBHKJMVBATSJ-BZSNNMDCSA-N",1
+Chemical Name,InChIKey,"GDP-D-mannose","MVMSCBBUIHUTGJ-GDJBGNAASA-N",1
+Chemical Name,InChIKey,"2-Octaprenylphenol","VUNQJPPPTJIREN-CMAXTTDKSA-N",1
+Chemical Name,InChIKey,"Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain)","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Crotonobetainyl-CoA","WAUPBDVHJXXZGW-HXPULJKESA-O",0
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)","YVYMBNSKXOXSKW-HXUWFJFHSA-N",1
+Chemical Name,InChIKey,"Indole","SIKJAQJRHWYJAI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Histidinol phosphate","CWNDERHTHMWBSI-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"Betaine aldehyde","SXKNCCSPZDCRFD-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine","PNWZQTONLRRPST-KLDRQJOASA-N",1
+Chemical Name,InChIKey,"(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"L-Alanine","QNAYBMKLOCPYGJ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"3,4-Dihydroxyphenylacetaldehyde","IADQVXRMSNIUEL-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"4-Aminobenzoate","ALYNCZNDIQEVRV-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"UDPglucose","HSCJRCZFDFQWRP-JZMIEXBBSA-N",1
+Chemical Name,InChIKey,"Dodecanoyl-ACP (n-C12:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole","ZMRGXEJKZPRBPJ-SYQHCUMBSA-N",1
+Chemical Name,InChIKey,"Adenosine","OIRDTQYFTABQOQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"DTTP C10H13N2O14P3","NHVNXKFIZYSCEB-XLPZGREQSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"IMP C10H11N4O8P","ZSKVGTPCRGIANV-ZXFLCMHBSA-N",1
+Chemical Name,InChIKey,"D-Sorbitol","FBPFZTCFMRRESA-JGWLITMVSA-N",1
+Chemical Name,InChIKey,"Two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain)","DAUAQNGYDSHRET-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA","MVYTXVAKEAWEGM-WMKPBWIYSA-D",1
+Chemical Name,InChIKey,"Octadecanoate (n-C18:0)","QIQXTHQIDYTFRH-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Generic ferrioxamine-Fe-III","XEEYBQQBJWHFJM-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-Phospho-D-glyceroyl phosphate","LJQLQCAXBUHEAZ-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-glucosamine 1-phosphate","FZLJPEPAYPUMMR-RTRLPJTCSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala","DHMQDGOQFOQNFH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-Amino-4-oxopentanoate","ZGXJTSGNIOSYLO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Arabinose","SRBFZHDQGSBBOR-HWQSCIPKSA-N",1
+Chemical Name,InChIKey,"Glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A","DJHBKVISRABJNG-HEIPHTFDSA-C",1
+Chemical Name,InChIKey,"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate","QUHLBZKCGUXHGP-BHBBPGSKSA-N",0
+Chemical Name,InChIKey,"L-ascorbate-6-phosphate","KIENGQUGHPTFGC-DOAHDZERSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)","DDUZNLUWXLYPCP-GOSISDBHSA-N",1
+Chemical Name,InChIKey,"5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate","XFVULMDJZXYMSG-ZIYNGMLESA-N",1
+Chemical Name,InChIKey,"3-Methyl-2-oxobutanoate","QHKABHOOEWYVLI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Methylisocitrate","HHKPKXCSHMJWCF-WVBDSBKLSA-N",1
+Chemical Name,InChIKey,"DIDP; 2'-deoxyinosine-5'-diphosphate(3-)","BKUSIKGSPSFQAC-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"D-Alanine","QNAYBMKLOCPYGJ-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"Acetyl phosphate","LIPOUNRJVLNBCD-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Allo-threonine","AYFVYJQAPQTCCC-HRFVKAFMSA-N",1
+Chemical Name,InChIKey,"Crotonobetaine","GUYHPGUANSLONG-SNAWJCMRSA-N",1
+Chemical Name,InChIKey,"Inosine","UGQMRVRMYYASKQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"N-Acetylmuramate","MNLRQHMNZILYPY-MKFCKLDKSA-N",1
+Chemical Name,InChIKey,"N-Succinyl-2-L-amino-6-oxoheptanedioate","SDVXSCSNVVZWDD-LURJTMIESA-N",1
+Chemical Name,InChIKey,"Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose","PSONHUYFSWYIME-JNYPHZTQSA-N",1
+Chemical Name,InChIKey,"Ethanol","LFQSCWFLJHTTHZ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Succinyl-CoA","VNOYUJKHFWYWIR-ITIYDSSPSA-N",1
+Chemical Name,InChIKey,"Ferrichrome minus Fe(III)","ZZDYFKJSJLUQON-UFYCRDLUSA-N",1
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)","PEDCQBHIVMGVHV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Isoleucine","AGPKZVBTJJNPAG-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"Butyryl-ACP (n-C4:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Carbamoyl phosphate","FFQKYPRQEYGKAF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]","IMRWILPUOVGIMU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"2-Methylcitrate","YNOXCRMFGMSKIJ-WVBDSBKLSA-N",1
+Chemical Name,InChIKey,"2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol","HTJXTKBIUVFUAR-XHIBXCGHSA-N",1
+Chemical Name,InChIKey,"Sarcosine C3H7NO2","FSYKKLYZXJSNPZ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide","BLKFNHOCHNCLII-GHVQHMAVSA-N",1
+Chemical Name,InChIKey,"2-Oxoglutarate","KPGXRSRHYNQIFN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-4'-Phosphopantothenate","XHFVGHPGDLDEQO-ZETCQYMHSA-N",1
+Chemical Name,InChIKey,"Phosphatidylserine (dihexadecanoyl, n-C16:0)","KLFKZIQAIPDJCW-GPOMZPHUSA-M",1
+Chemical Name,InChIKey,"4-Hydroxy-benzyl alcohol","BVJSUAQZOZWCKN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cu+","VMQMZMRVKUZKQL-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Dopamine","VYFYYTLLBUKUHU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N-(5-Phospho-D-ribosyl)anthranilate","PMFMJXPRNJUYMB-GWOFURMSSA-N",1
+Chemical Name,InChIKey,"N8-Acetylspermidine","FONIWJIDLJEJTL-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"6,7-Dimethyl-8-(1-D-ribityl)lumazine","SXDXRJZUAJBNFL-XKSSXDPKSA-N",1
+Chemical Name,InChIKey,"Oxaloacetate","KHPXUQMNIQBQEV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Aminoacetaldehyde","LYIIBVSRGJSHAV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Protein disulfide isomerase II (reduced)","LWVRJZXYUQBNHW-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Nicotinamide adenine dinucleotide phosphate","XJLXINKUBYWONI-NNYOXOHSSA-O",1
+Chemical Name,InChIKey,"Crotonoyl-CoA","KFWWCMJSYSSPSK-PAXLJYGASA-N",1
+Chemical Name,InChIKey,"(R)-Pantoate","OTOIIPJYVQJATP-BYPYZUCNSA-M",1
+Chemical Name,InChIKey,"D-Allose 6-phosphate","VFRROHXSMXFLSN-BGPJRJDNSA-N",0
+Chemical Name,InChIKey,"L-Prolinylglycine","XASIIFOIMAXKBF-LURJTMIESA-N",1
+Chemical Name,InChIKey,"L-Glutamate 5-phosphate","PJRXVIJAERNUIP-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"Thiamin","JZRWCGZRTZMZEH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Quinolinate","GJAWHXHKYYXBSV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-galactosamine","OVRNDRQMDRJTHS-KEWYIRBNSA-N",1
+Chemical Name,InChIKey,"Spermidine","ATHGHQPFGPMSJY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-Deoxy-D-manno-octulosonate 8-phosphate","RTNBXJBOAIDPME-SHUUEZRQSA-N",1
+Chemical Name,InChIKey,"Adenosine 3',5'-bisphosphate","WHTCPDAXWFLDIH-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Fructoselysine","BFSYFTQDGRDJNV-AYHFEMFVSA-N",0
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)","KIHAGWUUUHJRMS-JOCHJYFZSA-N",1
+Chemical Name,InChIKey,"Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)","QIQXTHQIDYTFRH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Carnitine","PHIQHXFUZVPYII-ZCFIWIBFSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-mannosamine","OVRNDRQMDRJTHS-ZTVVOAFPSA-N",1
+Chemical Name,InChIKey,"Glutathionylspermidine","NEDQLXHBVHSKNV-STQMWFEESA-N",1
+Chemical Name,InChIKey,"O2 O2","MHAJPDPJQMAIIY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-Oxooctadecanoyl-CoA","LGOGWHDPDVAUNY-LFZQUHGESA-N",1
+Chemical Name,InChIKey,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate","SFRQRNJMIIUYDI-UHNVWZDZSA-N",1
+Chemical Name,InChIKey,"KDO(2)-lipid IV(A)","XAOLJGCZESYRFT-VHSKNIDJSA-N",1
+Chemical Name,InChIKey,"5'-deoxyribose","WDRISBUVHBMJEF-MROZADKFSA-N",1
+Chemical Name,InChIKey,"5-Dehydro-4-deoxy-D-glucarate","QUURPCHWPQNNGL-ZAFYKAAXSA-L",1
+Chemical Name,InChIKey,"(S)-2-Aceto-2-hydroxybutanoate","VUQLHQFKACOHNZ-LURJTMIESA-N",1
+Chemical Name,InChIKey,"N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide","VDXLUNDMVKSKHO-XVFCMESISA-N",1
+Chemical Name,InChIKey,"(R)-2,3-Dihydroxy-3-methylpentanoate","PDGXJDXVGMHUIR-UJURSFKZSA-N",1
+Chemical Name,InChIKey,"Tungstate","PBYZMCDFOULPGH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]","GYCPLYCTMDTEPU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"ADP-D-glycero-D-manno-heptose","KMSFWBYFWSKGGR-RQWOTHMISA-N",0
+Chemical Name,InChIKey,"(S)-3-Hydroxytetradecanoyl-CoA","OXBHKMHNDGRDCZ-STLSENOWSA-N",1
+Chemical Name,InChIKey,"Allulose 6-phosphate","BGWGXPAPYGQALX-JDJSBBGDSA-N",1
+Chemical Name,InChIKey,"2,3-Dioxo-L-gulonate","GJQWCDSAOUMKSE-STHAYSLISA-M",1
+Chemical Name,InChIKey,"Hepta-acylated KDO(2)-lipid (A)","FRCCEHPWNOQAEU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Idonate","RGHNJXZEOKUKBD-SKNVOMKLSA-N",1
+Chemical Name,InChIKey,"Nitrous oxide","GQPLMRYTRLFLPF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Fructose 1,6-bisphosphate","RNBGYGVWRKECFJ-ZXXMMSQZSA-N",0
+Chemical Name,InChIKey,"Nickel","PXHVJJICTQNCMI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Octanoyl-ACP (n-C8:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate","RFENOVFRMPRRJI-AFCKVHGPSA-N",1
+Chemical Name,InChIKey,"3-Oxooctanoyl-CoA","WPIVBCGRGVNDDT-CECATXLMSA-N",1
+Chemical Name,InChIKey,"2-Deoxy-D-ribose 5-phosphate","KKZFLSZAWCYPOC-PYHARJCCSA-N",1
+Chemical Name,InChIKey,"Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C16:0)","BSAFHIMUDGXOPA-OKPYTHRESA-M",1
+Chemical Name,InChIKey,"CAMP C10H11N5O6P","IVOMOUWHDPKRLL-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Nicotinamide adenine dinucleotide - reduced","DFPAKSUCGFBDDF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(S)-3-Hydroxybutanoyl-CoA","QHHKKMYHDBRONY-VKBDFPRVSA-N",1
+Chemical Name,InChIKey,"Adenosyl cobinamide","BSHFIIHLAMICFC-VUCSARQQSA-M",0
+Chemical Name,InChIKey,"Trans-3-cis-11-vacceoyl-[acyl-carrier protein]","GYCPLYCTMDTEPU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Two disacharide linked murein units, tripeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"(S)-3-Hydroxyhexanoyl-CoA","VAAHKRMGOFIORX-IKTBLOROSA-N",1
+Chemical Name,InChIKey,"Acetate","QTBSBXVTEAMEQO-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"D-Erythrose 4-phosphate","NGHMDNPXVRFFGS-IUYQGCFVSA-N",1
+Chemical Name,InChIKey,"Nicotinate D-ribonucleotide","JOUIQRNQJGXQDC-ZYUZMQFOSA-O",1
+Chemical Name,InChIKey,"2,3-Dihydro-2,3-dihydroxybenzoate","INCSWYKICIYAHB-WDSKDSINSA-N",1
+Chemical Name,InChIKey,"2-Phosphoglycolate","ASCFNMCAHFUBCO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)","PGPMCWZMPPZJML-NAFNZUQFSA-N",1
+Chemical Name,InChIKey,"Sulfur dioxide","RAHZWNYVWXNFOC-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Dihydroneopterin monophosphate","YQIFAMYNGGOTFB-XINAWCOVSA-N",1
+Chemical Name,InChIKey,"DUMP C9H11N2O8P","JSRLJPSBLDHEIO-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"Citrate","KRKNYBCHXYNGOX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Calcium","OYPRJOBELJOOCE-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Uracil","ISAKRJDGNUQOIC-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"GDP-L-fucose","LQEBEXMHBLQMDB-QIXZNPMTSA-N",1
+Chemical Name,InChIKey,"L-Glutamine","ZDXPYRJPNDTMRX-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"Palmitoyl-CoA (n-C16:0CoA)","MNBKLUUYKPBKDU-BBECNAHFSA-J",1
+Chemical Name,InChIKey,"Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)","FTCITDHJQWUTEF-GGTDZKDPSA-N",0
+Chemical Name,InChIKey,"Oxidized glutathione","YPZRWBKMTBYPTK-BJDJZHNGSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)","RPXHXZNGZBHSMJ-GOSISDBHSA-N",1
+Chemical Name,InChIKey,"Stearoyl-CoA (n-C18:0CoA)","SIARJEKBADXQJG-LFZQUHGESA-J",1
+Chemical Name,InChIKey,"Sucrose C12H22O11","CZMRCDWAGMRECN-UGDNZRGBSA-N",1
+Chemical Name,InChIKey,"L-fuculose","QZNPNKJXABGCRC-LFRDXLMFSA-N",1
+Chemical Name,InChIKey,"Hydrogen sulfide","RWSOTUBLDIXVET-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"S-Adenosylmethioninamine","ZUNBITIXDCPNSD-LSRJEVITSA-N",1
+Chemical Name,InChIKey,"Cadmium","BDOSMKKIYDKNTQ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Beta D-Galactose","WQZGKKKJIJFFOK-FPRJBGLDSA-N",1
+Chemical Name,InChIKey,"CDP-1,2-ditetradecanoylglycerol","ICFWXMWHAMIZGF-WNAWUNHNSA-N",0
+Chemical Name,InChIKey,"Nitrate","NHNBFGGVMKEFGY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetylmuramoyl-L-alanine","NTMMCWJNQNKACG-KBKUWGQMSA-N",1
+Chemical Name,InChIKey,"Hexanoate (n-C6:0)","FUZZWVXGSFPDMH-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate","QZKSQRMITRSRFM-QUNHHUOXSA-L",1
+Chemical Name,InChIKey,"4-Methyl-5-(2-phosphoethyl)-thiazole","OCYMERZCMYJQQO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"DUTP C9H11N2O14P3","AHCYMLUZIRLXAA-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide","QOUSHGMTBIIAHR-KEOHHSTQSA-N",1
+Chemical Name,InChIKey,"3-Dehydroquinate","WVMWZWGZRAXUBK-SYTVJDICSA-N",1
+Chemical Name,InChIKey,"3-(3-hydroxy-phenyl)propionate","QVWAEZJXDYOKEH-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate","OCLCLRXKNJCOJD-UMMCILCDSA-L",1
+Chemical Name,InChIKey,"Inner core oligosaccharide lipid A (E coli)","YKVGZDADLKRSPK-YRCDCJNSSA-C",1
+Chemical Name,InChIKey,"L-Tyrosine","OUYCCCASQSFEME-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"Trehalose","HDTRYLNUVZCQOY-LIZSDCNHSA-N",1
+Chemical Name,InChIKey,"Dihydroxyacetone","RXKJFZQQPQGTFL-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Glucose","WQZGKKKJIJFFOK-GASJEMHNSA-N",1
+Chemical Name,InChIKey,"L-Homoserine","UKAUYVFTDYCKQA-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"Octadecanoyl-ACP (n-C18:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2(alpha-D-Mannosyl)-D-glycerate","DDXCFDOPXBPUJC-SAYMMRJXSA-N",1
+Chemical Name,InChIKey,"Glycerophosphoserine","ZWZWYGMENQVNFU-AKGZTFGVSA-N",0
+Chemical Name,InChIKey,"Acetaldehyde","IKHGUXGNUITLKF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetylmuramate","NQBRVZNDBBMBLJ-MQTLHLSBSA-N",1
+Chemical Name,InChIKey,"D-biotin d-sulfoxide","KCSKCIQYNAOBNQ-YBSFLMRUSA-N",1
+Chemical Name,InChIKey,"Orotate C5H3N2O4","PXQPEWDEAKTCGB-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Phosphatidylglycerol (dihexadecanoyl, n-C16:0)","BIABMEZBCHDPBV-MPQUPPDSSA-M",1
+Chemical Name,InChIKey,"XTP","CAEFEWVYEZABLA-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"Decanoate (n-C10:0)","GHVNFZFCNZKVNT-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"UDP-4-keto-pyranose","URJZIQLTPCJVMW-QNSCKLTRSA-L",0
+Chemical Name,InChIKey,"D-Sorbitol 6-phosphate","GACTWZZMVMUKNG-SLPGGIOYSA-N",1
+Chemical Name,InChIKey,"Phenylpyruvate","BTNMPGBKDVTSJY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Dehydro-3-deoxy-D-gluconate","WPAMZTWLKIDIOP-WVZVXSGGSA-N",1
+Chemical Name,InChIKey,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine","QNAYBMKLOCPYGJ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Gamma-glutamyl-putrescine","WKGTVHGVLRCTCF-ZETCQYMHSA-N",1
+Chemical Name,InChIKey,"Hepta-acylated core oligosaccharide lipid A (E. coli)","OIRDTQYFTABQOQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"1-dodecanoyl-sn-glycerol 3-phosphate","STTKJLVEXMKLNA-CQSZACIVSA-L",1
+Chemical Name,InChIKey,"Cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1)","OIFBSDVPJOWBCH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)","JFBCSFJKETUREV-LJAQVGFWSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)","LUTDZDAPSDZVAL-RBUKOAKNSA-M",1
+Chemical Name,InChIKey,"Cys Gly C5H10N2O3S","DHMQDGOQFOQNFH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)","SOLXJHKVRWSNJX-ZKIXVCMUSA-M",0
+Chemical Name,InChIKey,"D-Tagaturonate","IZSRJDGCGRAUAR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)","ACOSNNHXZDLJJE-HBLNEQHKSA-M",1
+Chemical Name,InChIKey,"ATP C10H12N5O13P3","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphonate","UEZVMMHDMIWARA-UHFFFAOYSA-M",0
+Chemical Name,InChIKey,"Trans-Hexadec-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"P1,P4-Bis(5'-guanosyl) tetraphosphate","OLGWXCQXRSSQPO-MHARETSRSA-N",1
+Chemical Name,InChIKey,"Acetyl-CoA","ZSLZBFCDCINBPY-ZSJPKINUSA-N",1
+Chemical Name,InChIKey,"Gamma-glutamyl-gamma aminobutyric acid","MKYPKZSGLSOGLL-LURJTMIESA-N",1
+Chemical Name,InChIKey,"(R)-S-Lactoylglutathione","VDYDCVUWILIYQF-CSMHCCOUSA-N",1
+Chemical Name,InChIKey,"Heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA","OCKKDDJUVZAABC-XSAOWLIJSA-F",1
+Chemical Name,InChIKey,"D-Glycero-D-manno-heptose 7-phosphate","SDADNVAZGVDAIM-NNPWBXLPSA-N",1
+Chemical Name,InChIKey,"5,10-Methylenetetrahydrofolate","QYNUQALWYRSVHF-PZORYLMUSA-N",1
+Chemical Name,InChIKey,"Inorganic triphosphate","UNXRWKVEANCORM-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1-octadecanoyl-sn-glycerol 3-phosphate","LAYXSTYJRSVXIH-HXUWFJFHSA-L",1
+Chemical Name,InChIKey,"L-Fuculose 1-phosphate","KNYGWWDTPGSEPD-LFRDXLMFSA-N",1
+Chemical Name,InChIKey,"(S)-Dihydroorotate","UFIVEPVSAGBUSI-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Glycerol 2-phosphate","DHCLVCXQIBBOPH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Glyoxylate","HHLFWLYXYJOTON-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"5,6-Dimethylbenzimidazole","LJUQGASMPRMWIW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,5-Diaminopentane","VHRGRCVQAFMJIZ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"O-Phospho-L-serine","BZQFBWGGLXLEPQ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Reduced FMN","YTNIXZGTHTVJBW-SCRDCRAPSA-N",1
+Chemical Name,InChIKey,"Phenylacetaldehyde","DTUQWGWMVIHBKE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Two linked disacharide tripeptide murein units (uncrosslinked, middle of chain)","DAUAQNGYDSHRET-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)","IZDRGPDUDLWAGR-MRXNPFEDSA-N",1
+Chemical Name,InChIKey,"Allantoin","POJWUDADGALRAB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Propanal","NBBJYMSMWIIQGU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl-diphospho-N-acetylglucosamine-N-acetylmannosaminuronate","PSONHUYFSWYIME-JNYPHZTQSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)","GHQNERCMPIDAAU-WFDPYMBVSA-M",1
+Chemical Name,InChIKey,"1,6-anhydrous-N-Acetylmuramyl-tripeptide","KGVLFEPQSVUIRC-FYQNUYSYSA-L",1
+Chemical Name,InChIKey,"UDPgalactose","HSCJRCZFDFQWRP-ABVWGUQPSA-N",1
+Chemical Name,InChIKey,"D-Ribose 1,5-bisphosphate","AAAFZMYJJHWUPN-SOOFDHNKSA-N",0
+Chemical Name,InChIKey,"CO2 CO2","MUBZPKHOEPUJKR-UHFFFAOYSA-L",1
+Chemical Name,InChIKey,"Menaquinone 8","MJVAVZPDRWSRRC-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Leucine","ROHFNLRQFUQHCH-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"1,4-Dihydroxy-2-naphthoate","VOJUXHHACRXLTD-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)","NPAZKTOOMVQLIH-MRXNPFEDSA-N",1
+Chemical Name,InChIKey,"2-octadec-11-enoyl-sn-glycerol 3-phosphate","WRGQSWVCFNIUNZ-GDCKJWNLSA-N",1
+Chemical Name,InChIKey,"CDP-1,2-didodecanoylglycerol","PTPPKXVNJJIECF-LSSKPTOFSA-N",0
+Chemical Name,InChIKey,"Pyridoxamine","NHZMQXZHNVQTQA-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Urate C5H4N4O3","JVRRYLFUQDPMCA-UHFFFAOYSA-L",0
+Chemical Name,InChIKey,"(R)-2,3-Dihydroxy-3-methylbutanoate","JTEYKUFKXGDTEU-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine","ZFPNNOXCEDQJQS-SSVOXRMNSA-N",1
+Chemical Name,InChIKey,"O-Succinylbenzoyl-CoA","KVAQAPQXOXTRAE-HSJNEKGZSA-N",1
+Chemical Name,InChIKey,"Psicoselysine","BFSYFTQDGRDJNV-CDEVMZEPSA-N",0
+Chemical Name,InChIKey,"L-Phenylalanine","COLNVLDHVKWLRT-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"D-Xylose","SRBFZHDQGSBBOR-IOVATXLUSA-N",1
+Chemical Name,InChIKey,"Propanoyl-CoA","QAQREVBBADEHPA-IEXPHMLFSA-N",1
+Chemical Name,InChIKey,"(S)-3-Methyl-2-oxopentanoate","JVQYSWDUAOAHFM-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol","RKDFGWAXBBGKMR-APPZFPTMSA-M",1
+Chemical Name,InChIKey,"Maltotriose C18H32O16","FYGDTMLNYKFZSV-DZOUCCHMSA-N",1
+Chemical Name,InChIKey,"Thymine C5H6N2O2","RWQNBRDOKXIBIV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl diphosphate","NTXGVHCCXVHYCL-RDQGWRCRSA-N",1
+Chemical Name,InChIKey,"Arsenite","OWTFKEBRIAXSMO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cardiolipin (tetrahexadecanoyl, n-C16:0)","GRTNLBQYBYZCCM-ULKDXPJMSA-L",1
+Chemical Name,InChIKey,"DGDP C10H12N5O10P2","CIKGWCTVFSRMJU-KVQBGUIXSA-N",1
+Chemical Name,InChIKey,"1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate","LYCAIKOWRPUZTN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C14:0)","HLSZVIULNVUBQI-YWPUXERESA-M",1
+Chemical Name,InChIKey,"2-Oxopent-4-enoate","NOXRYJAWRSNUJD-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"DADP C10H12N5O9P2","DAEAPNUQQAICNR-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"4-Hydroxybenzoate","FJKROLUGYXJWQN-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Galactitol","FBPFZTCFMRRESA-GUCUJZIJSA-N",1
+Chemical Name,InChIKey,"Dephospho-CoA","KDTSHFARGAKYJN-IBOSZNHHSA-N",1
+Chemical Name,InChIKey,"All-trans-Octaprenyl diphosphate","IKKLDISSULFFQO-DJMILUHSSA-N",1
+Chemical Name,InChIKey,"Agmatine","QYPPJABKJHAVHS-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Nicotinamide adenine dinucleotide phosphate - reduced","ACFIXJIJDZMPPO-NCHANQSKSA-N",1
+Chemical Name,InChIKey,"3-Deoxy-D-manno-2-octulosonate","KYQCXUMVJGMDNG-SHUUEZRQSA-N",1
+Chemical Name,InChIKey,"4-Phospho-L-aspartate","IXZNKTPIYKDIGG-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"XDP","YMOPVQQBWLGDOD-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"Urea CH4N2O","XSQUKJJJFZCRTK-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Geranyl diphosphate","GVVPGTZRZFNKDS-JXMROGBWSA-N",1
+Chemical Name,InChIKey,"UMP C9H11N2O9P","DJJCXFVJDGTHFX-XVFCMESISA-N",1
+Chemical Name,InChIKey,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate","QNAYBMKLOCPYGJ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Trimethylamine N-oxide","UYPYRKYUKCHHIB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2',3'-Cyclic AMP","KMYWVDDIPVNLME-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"DTDP-L-rhamnose","ZOSQFDVXNQFKBY-CGAXJHMRSA-N",1
+Chemical Name,InChIKey,"Ferrichrome","ZFDAUYPBCXMSBF-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Hexanoyl-CoA (n-C6:0CoA)","OEXFMSFODMQEPE-HDRQGHTBSA-N",1
+Chemical Name,InChIKey,"Gamma-glutamyl-gamma-butyraldehyde","JZNLEPLZUABCSQ-ZETCQYMHSA-N",1
+Chemical Name,InChIKey,"2,5-diketo-D-gluconate","RXMWXENJQAINCC-DMTCNVIQSA-M",1
+Chemical Name,InChIKey,"2-octadecanoyl-sn-glycerol 3-phosphate","RPAOEHFOGLEBTJ-HXUWFJFHSA-L",1
+Chemical Name,InChIKey,"But-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Maltose 6'-phosphate","ITPHOIFCAFNCLL-ASMJPISFSA-N",1
+Chemical Name,InChIKey,"2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate","AGQJQCFEPUVXNK-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-Amino-6-(5'-phosphoribitylamino)uracil","RQRINYISXYAZKL-RPDRRWSUSA-N",1
+Chemical Name,InChIKey,"L-alanine-L-glutamate","VYZAGTDAHUIRQA-WHFBIAKZSA-M",1
+Chemical Name,InChIKey,"S-Ribosyl-L-homocysteine","IQFWYNFDWRYSRA-OEQWSMLSSA-N",1
+Chemical Name,InChIKey,"Propionate (n-C3:0)","DGQGOJSRNVNZMF-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Glycerol","PEDCQBHIVMGVHV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Ornithine","AHLPHDHHMVZTML-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"Glucosyl-inner core oligosaccharide lipid A","OIRDTQYFTABQOQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate","WYHMIVUCEAXZMZ-LRILUZMESA-L",1
+Chemical Name,InChIKey,"D-Malate","BJEPYKJPYRNKOW-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"Phosphatidylserine (dioctadec-11-enoyl, n-C18:1)","TZCPCKNHXULUIY-RGULYWFUSA-N",1
+Chemical Name,InChIKey,"3-Carboxy-4-methyl-2-oxopentanoate","HIIZAGQWABAMRR-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"2-C-methyl-D-erythritol 4-phosphate","XMWHRVNVKDKBRG-UHNVWZDZSA-N",1
+Chemical Name,InChIKey,"1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate","QKMBYNRMPRKVTO-MNOVXSKESA-N",1
+Chemical Name,InChIKey,"Two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain)","FMGSKLZLMKYGDP-USOAJAOKSA-N",1
+Chemical Name,InChIKey,"Cardiolipin (tetratetradecanoyl, n-C14:0)","SDCJNZZAOLRVCP-GTOSQJSUSA-L",0
+Chemical Name,InChIKey,"L-Ribulose 5-phosphate","FNZLKVNUWIIPSJ-CRCLSJGQSA-N",1
+Chemical Name,InChIKey,"DTDP-4-amino-4,6-dideoxy-D-galactose","UIVJXHWSIFBBCY-FQLHZTMTSA-N",1
+Chemical Name,InChIKey,"4,5-dihydroxy-2,3-pentanedione","UYTRITJAZOPLCZ-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"N2-Succinyl-L-glutamate 5-semialdehyde","XTOKIEIBKARFSZ-LURJTMIESA-N",1
+Chemical Name,InChIKey,"Maltoheptaose","BNABBHGYYMZMOA-QJBBZCPBSA-N",1
+Chemical Name,InChIKey,"3-Oxotetradecanoyl-CoA","IQNFBGHLIVBNOU-QSGBVPJFSA-N",1
+Chemical Name,InChIKey,"Reduced glutathione","RWSXRVCMGQZWBV-WDSKDSINSA-N",1
+Chemical Name,InChIKey,"1,6-anhydrous-N-Acetylmuramate","QGZKDVFQNNGYKY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Fumarate","VZCYOOQTPOCHFL-OWOJBTEDSA-L",1
+Chemical Name,InChIKey,"4-Amino-5-hydroxymethyl-2-methylpyrimidine","VUTBELPREDJDDH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)","MEAZTWJVOWHKJM-CIAPRIGGSA-N",1
+Chemical Name,InChIKey,"Deoxycytidine","CKTSBUTUHBMZGZ-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"L-Methionine Sulfoxide","QEFRNWWLZKMPFJ-YGVKFDHGSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetyl-D-mannosamine","LFTYTUAZOPRMMI-ZYQOOJPVSA-N",1
+Chemical Name,InChIKey,"Deoxyguanosine","YKBGVTZYEHREMT-KVQBGUIXSA-N",1
+Chemical Name,InChIKey,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate","DGGUVLXVLHAAGT-XINAWCOVSA-N",1
+Chemical Name,InChIKey,"2,3-Dihydrodipicolinate","UWOCFOFVIBZJGH-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"5-Methylthioadenosine","WUUGFSXJNOTRMR-IOSLPCCCSA-N",1
+Chemical Name,InChIKey,"Deoxyadenosine","OLXZPDWKRNYJJZ-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"Adenine","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cold adapted KDO(2)-lipid (A)","YMYMIWUIGJUAIZ-IQVHTFGPSA-N",0
+Chemical Name,InChIKey,"Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)","SLKDGVPOSSLUAI-PGUFJCEWSA-N",1
+Chemical Name,InChIKey,"Butanal C4H8O","ZTQSAGDEMFDKMZ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2',3'-Cyclic UMP","HWDMHJDYMFRXOX-XVFCMESISA-N",1
+Chemical Name,InChIKey,"5-Dehydro-D-gluconate","IZSRJDGCGRAUAR-MROZADKFSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl phosphate","UFPHFKCTOZIAFY-RDQGWRCRSA-N",1
+Chemical Name,InChIKey,"L-Lactaldehyde","BSABBBMNWQWLLU-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol","AEUBLTTWYCDTGM-HXOXMVQHSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetyl-D-glucosamine","LFTYTUAZOPRMMI-CFRASDGPSA-N",1
+Chemical Name,InChIKey,"Hydrogen","UFHFLCQGNIYNRP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Myo-Inositol","CDAISMWEOUEBRE-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"2-Oxobutanoate","TYEYBOSBBBHJIV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,2-didodecanoyl-sn-glycerol 3-phosphate","NBIIXXVUZAFLBC-UHFFFAOYSA-K",1
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)","LYCAIKOWRPUZTN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Cystathionine","ILRYLPWNYFXEMH-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"Diphosphate","XPPKVPWEQAFLFU-UHFFFAOYSA-J",1
+Chemical Name,InChIKey,"D-Altronate","RGHNJXZEOKUKBD-AIHAYLRMSA-N",1
+Chemical Name,InChIKey,"N2-Succinyl-L-glutamate","JCNBNOQGFSXOML-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"5-Methylthio-5-deoxy-D-ribulose 1-phosphate","CNSJRYUMVMWNMC-RITPCOANSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)","YVYMBNSKXOXSKW-HXUWFJFHSA-N",1
+Chemical Name,InChIKey,"1-deoxy-D-xylulose","IGUZJYCAXLYZEE-RFZPGFLSSA-N",1
+Chemical Name,InChIKey,"Fe(III)dicitrate","BWHIDISYXGEZJU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Glycolate C2H3O3","AEMRFAOFKBGASW-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"D-Lactate","JVTAAEKCZFNVCJ-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)","BBYWOYAFBUOUFP-JOCHJYFZSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-L-glutamate 5-semialdehyde","BCPSFKBPHHBDAI-LURJTMIESA-N",1
+Chemical Name,InChIKey,"D-Carnitine","PHIQHXFUZVPYII-LURJTMIESA-N",1
+Chemical Name,InChIKey,"L-methionine-R-sulfoxide","QEFRNWWLZKMPFJ-ZXPFJRLXSA-N",1
+Chemical Name,InChIKey,"Trans-Dodec-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"UDP-D-galacto-1,4-furanose","ZQLQOXLUCGXKHS-SIAUPFDVSA-N",1
+Chemical Name,InChIKey,"Maltose C12H22O11","GUBGYTABKSRVRQ-QUYVBRFLSA-N",1
+Chemical Name,InChIKey,"3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]","IMRWILPUOVGIMU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Coprogen","FQIVLXIUJLOKPL-DWZMLRRXSA-N",0
+Chemical Name,InChIKey,"Pyridoxamine 5'-phosphate","ZMJGSOSNSPKHNH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-dodecanoyl-sn-glycerol 3-phosphate","STTKJLVEXMKLNA-CQSZACIVSA-L",1
+Chemical Name,InChIKey,"4-amino-4-deoxychorismate","OIUJHGOLFKDBSU-HTQZYQBOSA-N",1
+Chemical Name,InChIKey,"Two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain)","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)","FXOFAYKVTOLJTJ-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Cardiolipin (tetraoctadecanoyl, n-C18:0)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"6-Phospho-D-gluconate","BIRSGZKFKXLSJQ-SQOUGZDYSA-N",1
+Chemical Name,InChIKey,"Acyl carrier protein","OBUGXZVDQXDGTF-VEJNRXSDSA-N",0
+Chemical Name,InChIKey,"C'-(3-Indolyl)-glycerol 3-phosphate","AWUCVROLDVIAJX-GSVOUGTGSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide","ZWZMFRJKRXDGBE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Hydroxymethylglutathione","OJGVRWVZHGUOLY-BQBZGAKWSA-N",0
+Chemical Name,InChIKey,"Aerobactin minus Fe3","KDHHWXGBNUCREU-HOTGVXAUSA-K",1
+Chemical Name,InChIKey,"4-Aminobutanal","DZQLQEYLEYWJIB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Potassium","ZLMJMSJWJFRBEC-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"D-Mannitol 1-phosphate","GACTWZZMVMUKNG-KVTDHHQDSA-N",1
+Chemical Name,InChIKey,"(R)-Glycerate","RBNPOMFGQQGHHO-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"L-Lyxose","PYMYPHUHKUWMLA-YUPRTTJUSA-N",1
+Chemical Name,InChIKey,"Sulfite","LSNNMFCWUKXFEE-UHFFFAOYSA-L",1
+Chemical Name,InChIKey,"3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"(R)-Methylmalonyl-CoA","MZFOKIKEPGUZEN-AGCMQPJKSA-N",1
+Chemical Name,InChIKey,"L-Histidine","HNDVDQJCIGZPNO-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"N6-(1,2-Dicarboxyethyl)-AMP","OFBHPPMPBOJXRT-DPXQIYNJSA-N",1
+Chemical Name,InChIKey,"Reduced thioredoxin","RWSXRVCMGQZWBV-WDSKDSINSA-N",1
+Chemical Name,InChIKey,"S-Adenosyl-4-methylthio-2-oxobutanoate","UOKVQQMBGVMXPU-CJPDYEHRSA-O",1
+Chemical Name,InChIKey,"(S)-3-Hydroxyoctadecanoyl-CoA","WZMAIEGYXCOYSH-SFKGBVSGSA-N",0
+Chemical Name,InChIKey,"D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate","HFYBTHCYPKEDQQ-RITPCOANSA-N",1
+Chemical Name,InChIKey,"D-Tagatose 1,6-biphosphate","BJHIKXHVCXFQLS-PQLUHFTBSA-N",1
+Chemical Name,InChIKey,"L-Threonine O-3-phosphate","USRGIUJOYOXOQJ-GBXIJSLDSA-N",1
+Chemical Name,InChIKey,"D-Glycero-D-manno-heptose 1-phosphate","KMEJCSKJXSBBAN-NNPWBXLPSA-N",0
+Chemical Name,InChIKey,"N2-Acetyl-L-ornithine","JRLGPAXAGHMNOL-LURJTMIESA-N",1
+Chemical Name,InChIKey,"Dodecanoyl-CoA (n-C12:0CoA)","YMCXGHLSVALICC-GMHMEAMDSA-J",1
+Chemical Name,InChIKey,"Thiocyanate","ZMZDMBWJUHKJPS-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Glycine betaine","KWIUHFFTVRNATP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-Phospho-beta-D-ribosylamine","SKCBPEVYGOQGJN-TXICZTDVSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl phosphate-4-amino-4-formyl-L-arabinose","YYVYMEXYAGAGTM-MOVGJWTDSA-M",1
+Chemical Name,InChIKey,"Tetradecanoate (n-C14:0)","TUNFSRHWOTWDNC-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)","ZYKIFISVQNGKFE-OZAIVSQSSA-M",1
+Chemical Name,InChIKey,"Biotin","YBJHBAHKTGYVGT-ZKWXMUAHSA-N",1
+Chemical Name,InChIKey,"Pyridoxine","LXNHXLLTXMVWPM-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-(4-Hydroxyphenyl)pyruvate","KKADPXVIOXHVKN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(S)-Methylmalonyl-CoA","MZFOKIKEPGUZEN-IBNUZSNCSA-N",1
+Chemical Name,InChIKey,"L-Glutamate 1-semialdehyde","MPUUQNGXJSEWTF-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"O-Phospho-4-hydroxy-L-threonine","AYFVYJQAPQTCCC-GBXIJSLDSA-N",1
+Chemical Name,InChIKey,"D-Serine","MTCFGRXMJLQNBG-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"Formate","BDAGIHXWWSANSR-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Mercaptopyruvate","OJOLFAIGOXZBCI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]","XLYOFNOQVPJJNP-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"CMP-3-deoxy-D-manno-octulosonate","YWWJKULNWGRYAS-UOVSKDHASA-N",1
+Chemical Name,InChIKey,"Trans-Hexadec-2-enoyl-CoA","JUPAQFRKPHPXLD-MSHHSVQMSA-N",1
+Chemical Name,InChIKey,"Manganese","PWHULOQIROXLJO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate","LYCAIKOWRPUZTN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"ITP C10H11N4O14P3","HAEJPQIATWHALX-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"CDP-1,2-dioctadecanoylglycerol","PDCWLWQTNQCGRI-IGIWICMZSA-L",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)","COLNVLDHVKWLRT-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"Deoxyinosine","VGONTNSXDCQUGY-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"Trimethylamine","GETQZCLCWQTVFV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Arsenate","DJHGAFSJWGLOIV-UHFFFAOYSA-K",1
+Chemical Name,InChIKey,"D-Cysteine","XUJNEKJLAYXESH-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"Phosphotyrosine","DCWXELXMIBXGTH-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"(enterobacterial common antigen)x2 undecaprenyl-diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"L-seryl-AMP","UVSYURUCZPPUQD-MACXSXHHSA-N",1
+Chemical Name,InChIKey,"Alpha,alpha'-Trehalose 6-phosphate","LABSPYBHMPDTEL-LIZSDCNHSA-N",1
+Chemical Name,InChIKey,"Cytidine","UHDGCWIWMRVCDJ-XVFCMESISA-N",1
+Chemical Name,InChIKey,"L-Rhamnulose 1-phosphate","KNYGWWDTPGSEPD-FUTKDDECSA-N",1
+Chemical Name,InChIKey,"Dihydropteroate","WBFYVDCHGVNRBH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)","OQQOAWVKVDAJOI-VWLOTQADSA-N",0
+Chemical Name,InChIKey,"2-Dehydropantoate","PKVVTUWHANFMQC-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,2-dihexadecanoyl-sn-glycerol 3-phosphate","PORPENFLTBBHSG-MGBGTMOVSA-N",1
+Chemical Name,InChIKey,"2-Aminomalonate semialdehyde","XMTCKNXTTXDPJX-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C16:1)","FVJZSBGHRPJMMA-DHPKCYQYSA-N",0
+Chemical Name,InChIKey,"DITP(4-)","UFJPAQSLHAGEBL-RRKCRQDMSA-J",1
+Chemical Name,InChIKey,"D-Fructuronate","PTCIWUZVDIQTOW-XDJBDKDSSA-N",1
+Chemical Name,InChIKey,"L-Lactate","JVTAAEKCZFNVCJ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Maltotetraose","LUEWUZLMQUOBSB-AYQJAVFRSA-N",1
+Chemical Name,InChIKey,"Dimethylallyl diphosphate","CBIDRCWHNCKSTO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1-hexadec-9-enoyl-sn-glycerol 3-phosphate","COLNVLDHVKWLRT-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"5-O-(1-Carboxyvinyl)-3-phosphoshikimate","QUTYKIXIUDQOLK-PRJMDXOYSA-N",1
+Chemical Name,InChIKey,"O-Acetyl-L-serine","VZXPDPZARILFQX-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"L-Galactonate","RGHNJXZEOKUKBD-RSJOWCBRSA-N",1
+Chemical Name,InChIKey,"Phosphatidylserine (ditetradec-7-enoyl, n-C14:1)","TZCPCKNHXULUIY-RGULYWFUSA-N",1
+Chemical Name,InChIKey,"Zinc","HCHKCACWOHOZIP-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Ethanesulfonate","CCIVGXIOQKPBKL-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"DCTP C9H12N3O13P3","RGWHQCVHVJXOKC-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"3  AMP C10H12N5O7P","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylserine (dioctadecanoyl, n-C18:0)","TZCPCKNHXULUIY-RGULYWFUSA-M",1
+Chemical Name,InChIKey,"(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]","XLYOFNOQVPJJNP-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Heptosyl-heptosyl-kdo2-lipidA","HHPCMWTVGVTYIC-JOVNRQDYSA-H",1
+Chemical Name,InChIKey,"2-Octaprenyl-6-methoxy-1,4-benzoquinol","CZFRMASEEPTBAQ-MYCGWMCTSA-N",1
+Chemical Name,InChIKey,"DTDP-4-dehydro-6-deoxy-D-glucose","PSXWNITXWWECNY-UCBTUHGZSA-N",1
+Chemical Name,InChIKey,"Butanesulfonate","QDHFHIQKOVNCNC-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"L-Citrulline","RHGKLRLOHDJJDR-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"Superoxide anion","OUUQCZGPVNCOIJ-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"4-hydroxy-5-methyl-3(2H)-furanone","DLVYTANECMRFGX-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"1,2-dioctadecanoyl-sn-glycerol 3-phosphate","YFWHNAWEOZTIPI-DIPNUNPCSA-L",1
+Chemical Name,InChIKey,"CDP-1,2-ditetradec-7-enoylglycerol","VDJIEKQUDMPHPA-WNAWUNHNSA-N",0
+Chemical Name,InChIKey,"Glycerophosphoglycerol","LLCSXHMJULHSJN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Lactaldehyde","BSABBBMNWQWLLU-GSVOUGTGSA-N",1
+Chemical Name,InChIKey,"Selenophosphate","JRPHGDYSKGJTKZ-UHFFFAOYSA-K",0
+Chemical Name,InChIKey,"Adenosylcobalamin","OAJLVMGLJZXSGX-VCABRDNDSA-L",0
+Chemical Name,InChIKey,"2-hexadecanoyl-sn-glycerol 3-phosphate","LPQBQFLKBCPNAV-GOSISDBHSA-L",1
+Chemical Name,InChIKey,"N-Acetyl-L-glutamyl 5-phosphate","FCVIHFVSXHOPSW-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"(enterobacterial common antigen)x3 undecaprenyl-diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"Ammonium","QGZKDVFQNNGYKY-UHFFFAOYSA-O",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Oxo-3-hydroxy-4-phosphobutanoate","MZJFVXDTNBHTKZ-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)","BBYWOYAFBUOUFP-JOCHJYFZSA-N",1
+Chemical Name,InChIKey,"(O16 antigen)x4 undecaprenyl diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Octanoate (n-C8:0)","WWZKQHOCKIZLMA-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine","TZSJGZGYQDNRRX-MPLCHSTDSA-N",1
+Chemical Name,InChIKey,"Phosphoethanolamine KDO(2)-lipid (A)","SUHOOTKUPISOBE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Homocysteine","FFFHZYDWPBMWHY-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"2,3,4,5-Tetrahydrodipicolinate","CXMBCXQHOXUCEO-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"Palmitoyl-ACP (n-C16:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)","RPXHXZNGZBHSMJ-GOSISDBHSA-N",1
+Chemical Name,InChIKey,"Flavin adenine dinucleotide reduced","YPZRHBJKEMOYQH-UYBVJOGSSA-N",1
+Chemical Name,InChIKey,"L-Asparagine","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"N1-(5-Phospho-D-ribosyl)glycinamide","OBQMLSFOUZUIOB-SHUUEZRQSA-N",1
+Chemical Name,InChIKey,"1-tetradecanoyl-sn-glycerol 3-phosphate","FAZBDRGXCKPVJU-MRXNPFEDSA-N",0
+Chemical Name,InChIKey,"Dihydroxyacetone phosphate","GNGACRATGGDKBX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Reduced riboflavin","SGSVWAYHEWEQET-SCRDCRAPSA-N",1
+Chemical Name,InChIKey,"Ferroxamine minus Fe(3)","VEPOHXYIFQMVHW-PVJVQHJQSA-N",0
+Chemical Name,InChIKey,"Kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA","HKWVBDGTKAFRJF-UHFFFAOYSA-C",1
+Chemical Name,InChIKey,"Lipid A Disaccharide","HLDJGHAAKRKPAV-QDORLFPLSA-N",1
+Chemical Name,InChIKey,"7,8-Diaminononanoate","KCEGBPIYGIWCDH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Cardiolipin (tetraoctadec-11-enoyl, n-C18:1)","HSSSADMXQPKIEB-WKQLLZFPSA-L",0
+Chemical Name,InChIKey,"Alpha-D-Galactose 1-phosphate","HXXFSFRBOHSIMQ-FPRJBGLDSA-N",1
+Chemical Name,InChIKey,"Phenylacetic acid","WLJVXDMOQOGPHL-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Trans-Oct-2-enoyl-[acyl-carrier protein]","KBPLFHHGFOOTCA-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Anthranilate","RWZYAGGXGHYGMB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Glutamate","WHUUTDBJXJRKMK-GSVOUGTGSA-N",1
+Chemical Name,InChIKey,"LL-2,6-Diaminoheptanedioate","GMKMEZVLHJARHF-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"Tyramine","DZGWFCGJZKJUFP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"4-Hydroxy-2-oxopentanoate","HFKQINMYQUXOCH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol","QURLIMHPCRKMJP-WDXILIIOSA-N",0
+Chemical Name,InChIKey,"3-Oxodecanoyl-CoA","AZCVXMAPLHSIKY-HSJNEKGZSA-N",1
+Chemical Name,InChIKey,"Acetol cytosol","BSYNRYMUTXBXSQ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"3-Dehydroshikimate","SLWWJZMPHJJOPH-PHDIDXHHSA-N",1
+Chemical Name,InChIKey,"2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate","KVJWZTLXIROHIL-QDORLFPLSA-N",1
+Chemical Name,InChIKey,"L-Glutamate 5-semialdehyde","KABXUUFDPUOJMW-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)","IMRWILPUOVGIMU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Tetradecenoyl-CoA (n-C14:1CoA)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"ADPglucose C16H23N5O15P2","WFPZSXYXPSUOPY-ROYWQJLOSA-N",1
+Chemical Name,InChIKey,"DTMP C10H13N2O8P","GYOZYWVXFNDGLU-XLPZGREQSA-N",1
+Chemical Name,InChIKey,"Glyceraldehyde 3-phosphate","LXJXRIRHZLFYRP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Alanyl-D-alanine","DEFJQIDDEAULHB-QWWZWVQMSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-galactosamine 1-phosphate","FZLJPEPAYPUMMR-KEWYIRBNSA-N",1
+Chemical Name,InChIKey,"Trans-Hex-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Fe-enterobactin","NGILTSZTOFYVBF-UVJOBNTFSA-H",1
+Chemical Name,InChIKey,"N-Acetylanthranilate","QSACCXVHEVWNMX-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Formaldehyde","WSFSSNUMVMOOMR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Octadecenoate (n-C18:1)","ZQPPMHVWECSIRJ-KTKRTIGZSA-M",1
+Chemical Name,InChIKey,"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine","QNAYBMKLOCPYGJ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Uridine","DRTQHJPVMGBUCF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"Decanoyl-CoA (n-C10:0CoA)","CNKJPHSEFDPYDB-BOJFXZHGSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid","QGZKDVFQNNGYKY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Adenosine 5'-phosphosulfate","IRLPACMLTUPBCL-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A","IOAOXSQGQQYOQU-WSFSDJJVSA-E",1
+Chemical Name,InChIKey,"Ferric 2,3-dihydroxybenzoylserine","GRWHJFDPSIMTMT-RGMNGODLSA-K",1
+Chemical Name,InChIKey,"2,3-diaminopropionate","PECYZEOJVXMISF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Dodecanoate (n-C12:0)","RMLFYKFCGMSLTB-ZBDFTZOCSA-N",1
+Chemical Name,InChIKey,"Flavin adenine dinucleotide oxidized","VWWQXMAJTJZDQX-UYBVJOGSSA-N",1
+Chemical Name,InChIKey,"Hydroquinone","QIGBRXMKCJKVMJ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Mannose 1-phosphate","HXXFSFRBOHSIMQ-QTVWNMPRSA-N",1
+Chemical Name,InChIKey,"Trans-Octadec-2-enoyl-CoA","NBCCUIHOHUKBMK-ZDDAFBBHSA-N",1
+Chemical Name,InChIKey,"D-Glucosamine","MSWZFWKMSRAUBD-IVMDWMLBSA-N",1
+Chemical Name,InChIKey,"IDP C10H11N4O11P2","JPXZQMKKFWMMGK-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Dimethyl sulfide","QMMFVYPAHWMCMS-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"DGTP C10H12N5O13P3","HAAZLUGHYHWQIW-KVQBGUIXSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate","OJZCATPXPWFLHF-DNMPHPEFSA-N",0
+Chemical Name,InChIKey,"3-Sulfino-L-alanine","ADVPTQAUNPRNPO-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"GMP C10H12N5O8P","UYTPUPDQBNUYGX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Glycine","DHMQDGOQFOQNFH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Heptosyl-kdo2-lipidA","SRIXLBAWSGGPTF-NNZUOWEZSA-N",0
+Chemical Name,InChIKey,"Hexanoyl-ACP (n-C6:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N1-Acetylspermidine","MQTAVJHICJWXBR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose","QGYFHZBDXXNYAX-CCMGQBSKSA-L",1
+Chemical Name,InChIKey,"D-Ribulose 5-phosphate","FNZLKVNUWIIPSJ-UHNVWZDZSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)","RPXHXZNGZBHSMJ-GOSISDBHSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)","YVYMBNSKXOXSKW-HXUWFJFHSA-N",1
+Chemical Name,InChIKey,"R-3-hydroxypalmitoyl-[acyl-carrier protein]","QDSWNDMHSBZXKX-JTQLQIEISA-N",0
+Chemical Name,InChIKey,"Phosphatidylglycerol (dioctadecanoyl, n-C18:0)","FVJZSBGHRPJMMA-IOLBBIBUSA-M",1
+Chemical Name,InChIKey,"Pyridoxal 5'-phosphate","NGVDGCNFYWLIFO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"S-Methyl-L-methionine","YDBYJHTYSHBBAU-YFKPBYRVSA-O",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)","HFJVKBVEKQHVTO-XZOQPEGZSA-M",1
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C18:1)","FVJZSBGHRPJMMA-DHPKCYQYSA-N",0
+Chemical Name,InChIKey,"Trans-Cinnamate","WBYWAXJHAXSJNI-VOTSOKGWSA-N",1
+Chemical Name,InChIKey,"Coprogen unloaded (no Fe(III))","UOAJJXLNFIOBGG-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(enterobacterial common antigen)x4 undecaprenyl-diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"Thiamine diphosphate","AYEKOFBPNLCAJY-UHFFFAOYSA-O",1
+Chemical Name,InChIKey,"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine","KOJCFMYSTWNMQW-RUAJDYCTSA-N",1
+Chemical Name,InChIKey,"Succinate","KDYFGRWQOYBRFD-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Bicarbonate","BVKZGUZCCUSVTD-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"5-amino-1-(5-phospho-D-ribosyl)imidazole","PDACUKOKVHBVHJ-XVFCMESISA-N",1
+Chemical Name,InChIKey,"3-Oxohexanoyl-CoA","NFOYYXQAVVYWKV-HDRQGHTBSA-N",1
+Chemical Name,InChIKey,"Hexadecenoyl-CoA (n-C16:1CoA)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Xylulose","ZAQJHHRNXZUBTE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Nicotinamide","DFPAKSUCGFBDDF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(O16 antigen)x4 core oligosaccharide lipid A","OIRDTQYFTABQOQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"5-phosphoribosyl-5-carboxyaminoimidazole","JHLXDWGVSYMXPL-XVFCMESISA-K",1
+Chemical Name,InChIKey,"3-Octaprenyl-4-hydroxybenzoate","UTIBHEBNILDQKX-LQOKPSQISA-N",1
+Chemical Name,InChIKey,"DIMP C10H12N4O7P","PHNGFPPXDJJADG-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"Propanoyl phosphate","FMNMEQSRDWIBFO-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Glycero-D-manno-heptose 1,7-bisphosphate","LMTGTTLGDUACSJ-NNPWBXLPSA-N",0
+Chemical Name,InChIKey,"Isochorismate","NTGWPRCCOQCMGE-YUMQZZPRSA-N",1
+Chemical Name,InChIKey,"Trans-3-cis-5-dodecenoyl-[acyl-carrier protein]","MEAZTWJVOWHKJM-CIAPRIGGSA-N",1
+Chemical Name,InChIKey,"Cardiolipin (tetradodecanoyl, n-C12:0)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Lactose C12H22O11","GUBGYTABKSRVRQ-DCSYEGIMSA-N",1
+Chemical Name,InChIKey,"Galactitol 1-phosphate","GACTWZZMVMUKNG-DPYQTVNSSA-L",1
+Chemical Name,InChIKey,"2-Isopropylmaleate","NJMGRJLQRLFQQX-HYXAFXHYSA-N",1
+Chemical Name,InChIKey,"Isopentenyl diphosphate","NUHSROFQTUXZQQ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Melibiose C12H22O11","DLRVVLDZNNYCBX-ABXHMFFYSA-N",1
+Chemical Name,InChIKey,"Protoporphyrinogen IX","UHSGPDMIQQYNAX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Fe(III)hydroxamate","AVUWHHYAQFIVFK-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Sn-Glycero-3-phosphoethanolamine","JZNWSCPGTDBMEW-RXMQYKEDSA-N",1
+Chemical Name,InChIKey,"4-Aminobutanoate","BTCSSZJGUNDROE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)","NHYJQQUDLXESED-RBUKOAKNSA-M",1
+Chemical Name,InChIKey,"Xanthosine 5'-phosphate","DCTLYFZHFGENCW-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Magnesium","FYYHWMGAXLPEAU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"L-2-Amino-3-oxobutanoate","SAUCHDKDCUROAO-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"Coproporphyrinogen III","NIUVHXTXUXOFEB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Ubiquinol-8","FLVUMORHBJZINO-SGHXUWJISA-N",1
+Chemical Name,InChIKey,"Xanthine","LRFVTYWOQMYALW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Gamma-butyrobetainyl-CoA","QAMRRBGWSPTAEJ-SVHODSNWSA-K",1
+Chemical Name,InChIKey,"6-hydroxymethyl-dihydropterin pyrophosphate","FCQGJGLSOWZZON-UHFFFAOYSA-K",1
+Chemical Name,InChIKey,"Co2+","XLJKHNWPARRRJB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Deamino-NAD+","SENPVEZBRZQVST-HISDBWNOSA-O",1
+Chemical Name,InChIKey,"Galactosyl-glucosyl-inner core oligosaccharide lipid A","XCYFJKYUDKZCQY-RQZVRRRJSA-C",1
+Chemical Name,InChIKey,"Dihydrosirohydrochlorin","CSWLXNNNLVVXKD-ZIBVGKFXSA-N",1
+Chemical Name,InChIKey,"D-Galactonate","RGHNJXZEOKUKBD-MGCNEYSASA-N",1
+Chemical Name,InChIKey,"2-Dehydro-L-gulonate","VBUYCZFBVCCYFD-NUNKFHFFSA-M",1
+Chemical Name,InChIKey,"L-Methionine","FFEARJCKVFRZRR-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"6-Acetyl-D-glucose","ILLOJQCWUBEHBA-JAJWTYFOSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)","COLNVLDHVKWLRT-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"1-hexadecanoyl-sn-glycerol 3-phosphate","YNDYKPRNFWPPFU-GOSISDBHSA-L",1
+Chemical Name,InChIKey,"Nicotinamide adenine dinucleotide","BAWFJGJZGIEFAR-NNYOXOHSSA-O",1
+Chemical Name,InChIKey,"D-Glucose 1-phosphate","HXXFSFRBOHSIMQ-VFUOTHLCSA-N",1
+Chemical Name,InChIKey,"L-Lysine","KDXKERNSBIXSRK-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"O-Succinylbenzoate","YIVWQNVQRXFZJB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"8-Amino-7-oxononanoate","GUAHPAJOXVYFON-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"H+","GPRLSGONYQIRFK-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Maltopentaose","FTNIPWXXIGNQQF-DWTFCAFKSA-N",1
+Chemical Name,InChIKey,"4-(1-D-Ribitylamino)-5-aminouracil","XKQZIXVJVUPORE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Trans-Oct-2-enoyl-CoA","CPSDNAXXKWVYIY-NTLMCJQISA-N",1
+Chemical Name,InChIKey,"(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate","NAQGHJTUZRHGAC-ZZZDFHIKSA-N",1
+Chemical Name,InChIKey,"3-Oxododecanoyl-CoA","HQANBZHVWIDNQZ-GMHMEAMDSA-N",1
+Chemical Name,InChIKey,"5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide","NOTGFIUVDGNKRI-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"2,3-Dihydroxybenzoate","GLDQAMYCGOIJDV-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"DCDP C9H12N3O10P2","FTDHDKPUHBLBTL-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate","SOZYQWIVOMQYML-KIWKAZHESA-L",1
+Chemical Name,InChIKey,"L-alanine-D-glutamate","OJZCATPXPWFLHF-HPUCEMLMSA-N",1
+Chemical Name,InChIKey,"ADPribose C15H21N5O14P2","SRNWOUGRCWSEMX-KEOHHSTQSA-N",1
+Chemical Name,InChIKey,"4-Methyl-5-(2-hydroxyethyl)-thiazole","BKAWJIRCKVUVED-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Guanosine 3',5'-bis(diphosphate)","BUFLLCUFNHESEH-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"Trans-Tetradec-2-enoyl-CoA","MBCVYCOKMMMWLX-YYMFEJJQSA-N",1
+Chemical Name,InChIKey,"L-Tryptophan","QIVBCDIJIAJPQS-VIFPVBQESA-N",1
+Chemical Name,InChIKey,"Cardiolipin (tetrahexadec-9-enoyl, n-C16:1)","UYSHBKYVDAZLKJ-FADMWBLTSA-L",0
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)","AFSHUZFNMVJNKX-LLWMBOQKSA-N",1
+Chemical Name,InChIKey,"Phosphoenolpyruvate","DTBNBXWJWCWCIK-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Taurine C2H7NO3S","XOAAWQZATWQOTB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Fe2+ mitochondria","CWYNVVGOOAEACU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)","LVNGJLRDBYCPGB-LDLOPFEMSA-N",1
+Chemical Name,InChIKey,"UTP C9H11N2O15P3","UNXRWKVEANCORM-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"UDP C9H11N2O12P2","DRTQHJPVMGBUCF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"N-Carbamoyl-L-aspartate","HLKXYZVTANABHZ-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Guanosine","NYHBQMYGNKIUIF-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"DTDP-4-acetamido-4,6-dideoxy-D-galactose","YHXQWYBLXUELDA-ZCVKINLTSA-N",0
+Chemical Name,InChIKey,"Acetoacetate","WDJHALXBUFZDSR-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"1-octadec-11-enoyl-sn-glycerol 3-phosphate","WRGQSWVCFNIUNZ-GDCKJWNLSA-N",1
+Chemical Name,InChIKey,"Farnesyl diphosphate","VWFJDQUYCIWHTN-YFVJMOTDSA-N",1
+Chemical Name,InChIKey,"Glycolaldehyde","WGCNASOHLSPBMP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"GDP-4-dehydro-6-deoxy-D-mannose","PNHLMHWWFOPQLK-BKUUWRAGSA-N",1
+Chemical Name,InChIKey,"Gamma-L-Glutamyl-L-cysteine","RITKHVBHSGLULN-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"Thiamin monophosphate","HZSAJDVWZRBGIF-UHFFFAOYSA-O",1
+Chemical Name,InChIKey,"D-Galactose","WQZGKKKJIJFFOK-SVZMEOIVSA-N",1
+Chemical Name,InChIKey,"Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)","MEAZTWJVOWHKJM-CIAPRIGGSA-N",1
+Chemical Name,InChIKey,"L-Cysteine","XUJNEKJLAYXESH-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Trans-Dec-2-enoyl-CoA","MGNBGCRQQFMNBM-YJHHLLFWSA-N",1
+Chemical Name,InChIKey,"N-Acetylneuraminate","SQVRNKJHWKZAKO-LUWBGTNYSA-N",1
+Chemical Name,InChIKey,"1-(5-Phosphoribosyl)-AMP","RTQMRTSPTLIIHM-KEOHHSTQSA-N",1
+Chemical Name,InChIKey,"4-Hydroxy-L-threonine","JBNUARFQOCGDRK-GBXIJSLDSA-N",1
+Chemical Name,InChIKey,"Xanthosine","UBORTCNDUKBEOP-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"(3R)-3-Hydroxyacyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine","PMCOGCVKOAOZQM-XVFCMESISA-N",1
+Chemical Name,InChIKey,"Ubiquinone-8","ICFIZJQGJAJRSU-SGHXUWJISA-N",1
+Chemical Name,InChIKey,"Oxidized thioredoxin","UDLXRZRATKNKSJ-RXMQYKEDSA-N",0
+Chemical Name,InChIKey,"4-Amino-2-methyl-5-phosphomethylpyrimidine","PKYFHKIYHBRTPI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-Amino-6-(5'-phosphoribosylamino)uracil","LZEXYCAGPMYXLX-UMMCILCDSA-N",1
+Chemical Name,InChIKey,"Sodium","KEAYESYHFKHZAL-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Methanesulfonate","AFVFQIVMOAPDHO-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Butyrate (n-C4:0)","FERIUCNNQQJTOY-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Tetradecanoyl-CoA (n-C14:0CoA)","DUAFKXOFBZQTQE-QSGBVPJFSA-J",1
+Chemical Name,InChIKey,"L-Threonine","AYFVYJQAPQTCCC-GBXIJSLDSA-N",1
+Chemical Name,InChIKey,"CMP C9H12N3O8P","IERHLVCPSMICTF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"Sirohydrochlorin","AVBHZKNQGDKVEA-ZTKUHGNGSA-N",0
+Chemical Name,InChIKey,"Nitrite","IOVCWXUNBOPUCH-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"N-Acetyl-D-glucosamine 6-phosphate","BRGMHAYQAZFZDJ-RTRLPJTCSA-N",1
+Chemical Name,InChIKey,"Putrescine","KIDHWZJUCRJVML-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-mannosamine 6-phosphate","BRGMHAYQAZFZDJ-ZTVVOAFPSA-N",1
+Chemical Name,InChIKey,"D-carnitinyl-CoA","BBRISSLDTUHWKG-ZORKKWTOSA-K",1
+Chemical Name,InChIKey,"S-Adenosyl-L-methionine","MEFKEPWMEQBLKI-AIRLBKTGSA-N",1
+Chemical Name,InChIKey,"DTDPglucose","YSYKRGRSMLTJNL-KFQCIAAJSA-N",1
+Chemical Name,InChIKey,"L-Rhamnose","SHZGCJCMOBCMKK-JFNONXLTSA-N",1
+Chemical Name,InChIKey,"(S)-Propane-1,2-diol","DNIAPMSPPWPWGF-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate","QJYRAJSESKVEAE-PSASIEDQSA-N",1
+Chemical Name,InChIKey,"2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate","PJWIPEXIFFQAQZ-PUFIMZNGSA-N",1
+Chemical Name,InChIKey,"GDP C10H12N5O11P2","RQFCJASXJCIDSX-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"Porphobilinogen","QSHWIQZFGQKFMA-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N-Succinyl-LL-2,6-diaminoheptanedioate","GLXUWZBUPATPBR-BQBZGAKWSA-N",1
+Chemical Name,InChIKey,"Octadecenoyl-CoA (n-C18:1CoA)","XDUHQPOXLUAVEE-ZXQNDDKTSA-N",1
+Chemical Name,InChIKey,"Two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain)","DAUAQNGYDSHRET-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Guanosine 3'-diphosphate 5'-triphosphate","KCPMACXZAITQAX-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)","ONJBJMDJKLHMEK-MPQUPPDSSA-K",1
+Chemical Name,InChIKey,"Pimeloyl-CoA","LYCRXMTYUZDUGA-UYRKPTJQSA-N",1
+Chemical Name,InChIKey,"Cis-Aconitate","GTZCVFVGUGFEME-IWQZZHSRSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-D-glucosamine","OVRNDRQMDRJTHS-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Succinate semialdehyde-thiamin diphosphate anion","KDYFGRWQOYBRFD-UHFFFAOYSA-L",1
+Chemical Name,InChIKey,"Chloride","VEXZGXHMUGYJMC-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"2-Dehydro-3-deoxy-D-gluconate 6-phosphate","OVPRPPOVAXRCED-WVZVXSGGSA-N",1
+Chemical Name,InChIKey,"DTDP-4-dehydro-6-deoxy-L-mannose","PSXWNITXWWECNY-WPTIAVDBSA-N",0
+Chemical Name,InChIKey,"N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole","HLRUKOJSWOKCPP-SYQHCUMBSA-N",1
+Chemical Name,InChIKey,"Glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A","WLEFLXRCTUWFSD-CCRRCLIHSA-C",1
+Chemical Name,InChIKey,"D-Glucuronate","AEMOLEFTQBMNLQ-AQKNRBDQSA-N",1
+Chemical Name,InChIKey,"Malonyl CoA C24H33N7O19P3S","LTYOQGRJFJAKNA-DVVLENMVSA-N",1
+Chemical Name,InChIKey,"Oxalureate","UWBHMRBRLOJJAA-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(2,3-Dihydroxybenzoyl)adenylate","ULPVJDOMCRTJSN-RVXWVPLUSA-N",1
+Chemical Name,InChIKey,"Copper","RYGMFSIKBFXOCR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2,3-dihydroxicinnamic acid","GTZCVFVGUGFEME-HNQUOIGGSA-N",1
+Chemical Name,InChIKey,"Deoxyuridine","MXHRCPNRJAMMIM-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"H2O H2O","XLYOFNOQVPJJNP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate","HEHQDWUWJVPREQ-XQJZMFRCSA-N",1
+Chemical Name,InChIKey,"2-Deoxy-D-ribose 1-phosphate","KBDKAJNTYKVSEK-PYHARJCCSA-N",1
+Chemical Name,InChIKey,"Octanoyl-CoA (n-C8:0CoA)","KQMZYOXOBSXMII-CECATXLMSA-J",1
+Chemical Name,InChIKey,"Sn-Glycero-3-phosphocholine","SUHOQUVVVLNYQR-MRVPVSSYSA-N",1
+Chemical Name,InChIKey,"Ethanolamine","HZAXFHJVJLSVMW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Octaprenyl-6-methoxyphenol","MARGKPIMNMASKJ-CMAXTTDKSA-N",1
+Chemical Name,InChIKey,"10-Formyltetrahydrofolate","AUFGTPPARQZWDO-YUZLPWPTSA-N",1
+Chemical Name,InChIKey,"NMN C11H14N2O8P","DAYLJWODMCOQEW-TURQNECASA-N",1
+Chemical Name,InChIKey,"Uroporphyrinogen III","HUHWZXWWOFSFKF-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Acetyl-ACP","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,6-anhydrous-N-Acetylmuramyl-tetrapeptide","NDCSJPPJAVCLMI-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"2,3-dihydroxybenzoylserine","VDTYHTVHFIIEIL-LURJTMIESA-N",1
+Chemical Name,InChIKey,"Phosphatidylethanolamine (didodecanoyl, n-C12:0)","ZLGYVWRJIZPQMM-HHHXNRCGSA-N",1
+Chemical Name,InChIKey,"2-tetradec-7-enoyl-sn-glycerol 3-phosphate","LYCAIKOWRPUZTN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Aerobactin","KDHHWXGBNUCREU-HOTGVXAUSA-N",1
+Chemical Name,InChIKey,"2-Octaprenyl-6-hydroxyphenol","YNPGYMZVNLIZLD-BQFKTQOQSA-N",1
+Chemical Name,InChIKey,"4-Methyl-2-oxopentanoate","BKAJNAXTPSGJCU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Arabinose 5-phosphate","PPQRONHOSHZGFQ-WDCZJNDASA-N",1
+Chemical Name,InChIKey,"Protein disulfide isomerase II (oxidized)","LWVRJZXYUQBNHW-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"N-acetylmuramate 6-phosphate","NMEMTQKUEVNSPV-MKFCKLDKSA-N",1
+Chemical Name,InChIKey,"5,10-Methenyltetrahydrofolate","MEANFMOQMXYMCT-ABLWVSNPSA-O",1
+Chemical Name,InChIKey,"2-Dehydro-3-deoxy-D-galactonate 6-phosphate","OVPRPPOVAXRCED-NQXXGFSBSA-N",1
+Chemical Name,InChIKey,"N-Acetyl-L-glutamate","RFMMMVDNIPUKGG-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetyl-D-galactosamine","LFTYTUAZOPRMMI-FTFHWYEPSA-N",1
+Chemical Name,InChIKey,"Adenosyl cobinamide phosphate","ZOGULMGRVTXRNW-VUCSARQQSA-M",0
+Chemical Name,InChIKey,"1-Pyrroline-5-carboxylate","DWAKNKKXGALPNW-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)","COLNVLDHVKWLRT-QMMMGPOBSA-N",1
+Chemical Name,InChIKey,"(S)-3-Hydroxydodecanoyl-CoA","IJFLXRCJWPKGKJ-LXIXEQKWSA-N",1
+Chemical Name,InChIKey,"P1,P4-Bis(5'-adenosyl) tetraphosphate","YOAHKNVSNCMZGQ-XPWFQUROSA-N",1
+Chemical Name,InChIKey,"Decanoyl-ACP (n-C10:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Menaquinol 8","CZHYZLLLSCZMRL-NTCAYCPXSA-N",1
+Chemical Name,InChIKey,"L-Xylulose 5-phosphate","FNZLKVNUWIIPSJ-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]","MEAZTWJVOWHKJM-CIAPRIGGSA-N",1
+Chemical Name,InChIKey,"ADP-L-glycero-D-manno-heptose","KMSFWBYFWSKGGR-XRLZOAFQSA-N",0
+Chemical Name,InChIKey,"Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose","GWBAKYBSWHQNMQ-IAZOVDBXSA-M",1
+Chemical Name,InChIKey,"CDP-1,2-dihexadecanoylglycerol","IERHLVCPSMICTF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"3-Carboxy-3-hydroxy-4-methylpentanoate","BITYXLXUCSKTJS-ZETCQYMHSA-N",1
+Chemical Name,InChIKey,"Phosphatidylethanolamine (ditetradecanoyl, n-C14:0)","NEZDNQCXEZDCBI-WJOKGBTCSA-N",1
+Chemical Name,InChIKey,"Shikimate","JXOHGGNKMLTUBP-HSUXUTPPSA-N",1
+Chemical Name,InChIKey,"2-keto-4-methylthiobutyrate","SXFSQZDSUWACKX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Fructose","LKDRXBCSQODPBY-VRPWFDPXSA-N",0
+Chemical Name,InChIKey,"Phenylpropanoate","XMIIGOLPHOKFCH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Carnitinyl-CoA","BBRISSLDTUHWKG-PVMHLSDZSA-K",1
+Chemical Name,InChIKey,"7,8-Dihydrofolate","OZRNSSUDZOLUSN-LBPRGKRZSA-N",1
+Chemical Name,InChIKey,"4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol","YFAUKWZNPVBCFF-XHIBXCGHSA-N",1
+Chemical Name,InChIKey,"L-Glutamate","WHUUTDBJXJRKMK-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"3-Dehydro-L-gulonate","WTAHRPBPWHCMHW-LWKDLAHASA-N",1
+Chemical Name,InChIKey,"N2-Succinyl-L-arginine","UMOXFSXIFQOWTD-LURJTMIESA-N",1
+Chemical Name,InChIKey,"Cobinamide","FEESAGIUMZGLMF-JFYQDRLCSA-M",1
+Chemical Name,InChIKey,"Maltohexaose","OCIBBXPLUVYKCH-LIGGPISVSA-N",1
+Chemical Name,InChIKey,"L-Rhamnulose","QZNPNKJXABGCRC-FUTKDDECSA-N",1
+Chemical Name,InChIKey,"3-Carboxy-2-hydroxy-4-methylpentanoate","RNQHMTFBUSSBJQ-CRCLSJGQSA-N",1
+Chemical Name,InChIKey,"Meso-2,6-Diaminoheptanedioate","GMKMEZVLHJARHF-SYDPRGILSA-N",1
+Chemical Name,InChIKey,"3-(2,3-Dihydroxyphenyl)propanoate","QZDSXQJWBGMRLU-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Sulfoacetate","AGGIJOLULBJGTQ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phenylacetyl-CoA","ZIGIFDRJFZYEEQ-CECATXLMSA-N",1
+Chemical Name,InChIKey,"3'-Phosphoadenylyl sulfate","GACDQMDRPRGCTN-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Succinic semialdehyde","UIUJIQZEACWQSV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Histidinol","ZQISRDCJNBUVMM-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"Two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain)","FMGSKLZLMKYGDP-USOAJAOKSA-N",1
+Chemical Name,InChIKey,"2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol","HDSGDGSLNMIMKU-KFSSTAEESA-N",1
+Chemical Name,InChIKey,"Acetoacetyl-ACP","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Guanine","UYTPUPDQBNUYGX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Isocitrate","ODBLHEXUDAPZAU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Mannose 6-phosphate","NBSCHQHZLSJFNQ-QTVWNMPRSA-N",1
+Chemical Name,InChIKey,"D-Ribose","SRBFZHDQGSBBOR-SOOFDHNKSA-N",0
+Chemical Name,InChIKey,"Siroheme C42H36FeN4O16","DLKSSIHHLYNIKN-QIISWYHFSA-L",1
+Chemical Name,InChIKey,"L-Ribulose","ZAQJHHRNXZUBTE-UCORVYFPSA-N",1
+Chemical Name,InChIKey,"Sucrose 6-phosphate","WQQSIXKPRAUZJL-UGDNZRGBSA-N",1
+Chemical Name,InChIKey,"Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1)","MEAZTWJVOWHKJM-CIAPRIGGSA-N",1
+Chemical Name,InChIKey,"Selenide","HMUBNCUQSSTAIB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"E-3-carboxy-2-pentenedioate 6-methyl ester","BRYKYSQCLNCYQW-DUXPYHPUSA-L",1
+Chemical Name,InChIKey,"Hexadecenoate (n-C16:1)","SECPZKHBENQXJG-FPLPWBNLSA-N",1
+Chemical Name,InChIKey,"(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]","XLYOFNOQVPJJNP-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Cob(I)alamin","FEZWOUWWJOYMLT-DSRCUDDDSA-M",0
+Chemical Name,InChIKey,"Dimethyl sulfoxide","IAZDPXIOMUYVGZ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-(Imidazol-4-yl)-2-oxopropyl phosphate","YCFFMSOLUMRAMD-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"5'-Deoxyadenosine","XGYIMTFOTBMPFP-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Phosphatidylserine (ditetradecanoyl, n-C14:0)","TZCPCKNHXULUIY-RGULYWFUSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"L-Valine","KZSNJWFQEVHDMF-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"KDO(2)-lipid (A)","XAOLJGCZESYRFT-VHSKNIDJSA-N",1
+Chemical Name,InChIKey,"S-Formylglutathione","FHXAGOICBFGEBF-BQBZGAKWSA-N",1
+Chemical Name,InChIKey,"L-Malate","BJEPYKJPYRNKOW-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetyl-D-mannosaminouronate","DZOGQXKQLXAPND-XHUKORKBSA-N",1
+Chemical Name,InChIKey,"Phosphate","NBIIXXVUZAFLBC-UHFFFAOYSA-K",1
+Chemical Name,InChIKey,"Trans-Tetradec-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"5-Methylthio-D-ribose","OLVVOVIFTBSBBH-KVTDHHQDSA-N",1
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C18:0)","WCMVNCVROQLVSH-JBQXKKLXSA-M",1
+Chemical Name,InChIKey,"Acetoacetyl-CoA","OJFDKHTZOUZBOS-CITAKDKDSA-N",1
+Chemical Name,InChIKey,"Adenosine-GDP-cobinamide","LVNZJTSOSZDVPZ-RRMAJTJESA-M",0
+Chemical Name,InChIKey,"2-Hydroxy-3-oxopropanoate","QWBAFPFNGRFSFB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"DATP C10H12N5O12P3","SUYVUBYJARFZHO-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"DUDP C9H11N2O11P2","QHWZTVCCBMIIKE-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"D-Glucuronate 1-phosphate","AIQDYKMWENWVQJ-AQKNRBDQSA-N",1
+Chemical Name,InChIKey,"2-hydroxy-6-ketononatrienedioate","WCJYZUFKKTYNLB-ARITWGJRSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)","BBYWOYAFBUOUFP-JOCHJYFZSA-N",1
+Chemical Name,InChIKey,"5-Methylthio-5-deoxy-D-ribose 1-phosphate","JTFITTQBRJDSTL-WATOWXBHSA-N",1
+Chemical Name,InChIKey,"Trans-octadec-2-enoyl-[acyl-carrier protein]","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Trans-Dodec-2-enoyl-CoA","IRFYVBULXZMEDE-DEEZISNZSA-N",1
+Chemical Name,InChIKey,"2-Dehydro-3-deoxy-D-galactonate","WPAMZTWLKIDIOP-NQXXGFSBSA-N",1
+Chemical Name,InChIKey,"Heme O C49H56FeN4O5","JHJOOSLFWRRSGU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-hexadec-9-enoyl-sn-glycerol 3-phosphate","PEDCQBHIVMGVHV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"N-Methyltryptophan","CZCIKBSVHDNIDH-NSHDSACASA-N",1
+Chemical Name,InChIKey,"Orotidine 5'-phosphate","KYOBSHFOBAOFBF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"Hypoxanthine","FDGQSTZJBFJUBT-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(S)-3-Hydroxyoctanoyl-CoA","ATVGTMKWKDUCMS-OTOYJEMWSA-N",1
+Chemical Name,InChIKey,"L-Arginine","ODKSFYDXXFIFQN-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"DCMP C9H12N3O7P","NCMVOABPESMRCP-SHYZEUOFSA-N",1
+Chemical Name,InChIKey,"Cytosine","OPTASPLRGRRNAP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Sn-Glycero-3-phospho-1-inositol","BMVUIWJCUQSHLZ-YFZGBAIXSA-N",0
+Chemical Name,InChIKey,"KDO(2)-lipid IV(A) with laurate","POULHZVOKOAJMA-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Hexadecanoate (n-C16:0)","IPCSVZSSVZVIGE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"O16 antigen undecaprenyl diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"N(omega)-(L-Arginino)succinate","KDZOASGQNOPSCU-WDSKDSINSA-N",1
+Chemical Name,InChIKey,"Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"AMP C10H12N5O7P","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2,3-diketo-5-methylthio-1-phosphopentane","HKEAOVFNWRDVAJ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3-hydroxycinnamic acid","KKSDGJDHHZEWEP-SNAWJCMRSA-N",1
+Chemical Name,InChIKey,"2',3'-Cyclic GMP","UASRYODFRYWBRC-UUOKFMHZSA-N",1
+Chemical Name,InChIKey,"Phenethylamine","BHHGXPLMPWCGHP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"CDP-1,2-dihexadec-9-enoylglycerol","LBKBJHVQQNUXGQ-BQUKFSKHSA-N",0
+Chemical Name,InChIKey,"Phosphatidylserine (dihexadec-9-enoyl, n-C16:1)","TZCPCKNHXULUIY-RGULYWFUSA-N",1
+Chemical Name,InChIKey,"D-Tagatose 6-phosphate","BGWGXPAPYGQALX-OEXCPVAWSA-N",1
+Chemical Name,InChIKey,"D-Methionine","FFEARJCKVFRZRR-SCSAIBSYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)","BVJSKAUUFXBDOB-LEWJYISDSA-M",1
+Chemical Name,InChIKey,"D-Glucosamine 6-phosphate","XHMJOUIAFHJHBW-IVMDWMLBSA-N",1
+Chemical Name,InChIKey,"2-Demethylmenaquinol 8","RCAWOWBPYYYZPZ-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Phosphatidylserine (didodecanoyl, n-C12:0)","TZCPCKNHXULUIY-RGULYWFUSA-N",1
+Chemical Name,InChIKey,"Hydroxypyruvate","HHDDCCUIIUWNGJ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"3,4-dihydroxy-2-butanone 4-phosphate","OKYHYXLCTGGOLM-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"KDO-lipid IV(A)","GPNCBCJEDRRCDW-ACUQGRCXSA-N",1
+Chemical Name,InChIKey,"Arbutin 6-phosphate","FBHYCDOVYMVLEN-RMPHRYRLSA-N",1
+Chemical Name,InChIKey,"Pantetheine 4'-phosphate","JDMUPRLRUUMCTL-VIFPVBQESA-N",1
+Chemical Name,InChIKey,"Aminoacetone","BCDGQXUMWHRQCB-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Iminoaspartate","NMUOATVLLQEYHI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerol (ditetradecanoyl, n-C14:0)","BPHQZTVXXXJVHI-AJQTZOPKSA-M",0
+Chemical Name,InChIKey,"Prephenate","FPWMCUPFBRFMLH-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Sulfate","QAOWNCQODCNURD-UHFFFAOYSA-L",1
+Chemical Name,InChIKey,"3-Oxohexadecanoyl-CoA","NQMPLXPCRJOSHL-BBECNAHFSA-N",1
+Chemical Name,InChIKey,"(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"D-Mannose","WQZGKKKJIJFFOK-QTVWNMPRSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose","ROHFNLRQFUQHCH-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)","CKPBBEOJHAPPBT-HXUWFJFHSA-N",1
+Chemical Name,InChIKey,"3-keto-L-gulonate-6-phosphate","BDUIIKXSXFDPEC-LWKDLAHASA-K",1
+Chemical Name,InChIKey,"Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)","OBXHKDVMOWISFV-GWHWHECRSA-M",1
+Chemical Name,InChIKey,"D-Glucarate","DSLZVSRJTYRBFB-LLEIAEIESA-N",1
+Chemical Name,InChIKey,"5-Phospho-alpha-D-ribose 1-diphosphate","PQGCEDQWHSBAJP-TXICZTDVSA-N",1
+Chemical Name,InChIKey,"(enterobacterial common antigen)x4 core oligosaccharide lipid A","OIRDTQYFTABQOQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"L-Xylulose","ZAQJHHRNXZUBTE-WVZVXSGGSA-N",1
+Chemical Name,InChIKey,"Cis-2-Methylaconitate","NUZLRKBHOBPTQV-ARJAWSKDSA-N",1
+Chemical Name,InChIKey,"2',3'-Cyclic CMP","NMPZCCZXCOMSDQ-XVFCMESISA-N",1
+Chemical Name,InChIKey,"Isethionic acid","SUMDYPCJJOFFON-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Nicotinate","PVNIIMVLHYAWGP-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Protoporphyrin","ZCFFYALKHPIRKJ-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Hydroxymethylbilane","WDFJYRZCZIUBPR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"CDP-1,2-dioctadec-11-enoylglycerol","KISJWPWNABZPGN-IGIWICMZSA-N",0
+Chemical Name,InChIKey,"D-Galactarate","DSLZVSRJTYRBFB-DUHBMQHGSA-N",1
+Chemical Name,InChIKey,"D-Glycerate 2-phosphate","GXIURPTVHJPJLF-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"Mercury  charged 2  Hg","YBBLVLTVTVSKRW-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(R)-Propane-1,2-diol","DNIAPMSPPWPWGF-GSVOUGTGSA-N",1
+Chemical Name,InChIKey,"Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]","NECRQCBKTGZNMH-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Acyl phosphatidylglycerol (n-C12:0)","AJCVDIXUOBZCPE-ZESVVUHVSA-M",1
+Chemical Name,InChIKey,"Alpha-D-Ribose 5-phosphate","KTVPXOYAKDPRHY-AIHAYLRMSA-N",1
+Chemical Name,InChIKey,"D-Fructose 6-phosphate","BGWGXPAPYGQALX-VRPWFDPXSA-N",1
+Chemical Name,InChIKey,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine","IMWOXEZVYQDRDF-MCZXNMLPSA-N",1
+Chemical Name,InChIKey,"ADP C10H12N5O10P2","OIRDTQYFTABQOQ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Gamma-butyrobetaine","JHPNVNIEXXLNTR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Glyceraldehyde","MNQZXJOMYWMBOU-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"6-hydroxymethyl dihydropterin","CQQNNQTXUGLUEV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate","PEDCQBHIVMGVHV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Choline C5H14NO","OEYIOHPDSNJKLS-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"D-Mannitol","FBPFZTCFMRRESA-KVTDHHQDSA-N",1
+Chemical Name,InChIKey,"Methylglyoxal","AIJULSRZWUXGPQ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Beta-Alanine","UCMIRNVEIXFBKS-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"CTP C9H12N3O14P3","IERHLVCPSMICTF-XVFCMESISA-N",1
+Chemical Name,InChIKey,"D-Galacturonate","AEMOLEFTQBMNLQ-YMDCURPLSA-N",1
+Chemical Name,InChIKey,"Fructoselysine Phosphate","NBIIXXVUZAFLBC-UHFFFAOYSA-K",1
+Chemical Name,InChIKey,"Butanoyl-CoA","CRFNGMNYKDXRTN-CITAKDKDSA-N",1
+Chemical Name,InChIKey,"D-Glucosamine 1-phosphate","YMJBYRVFGYXULK-QZABAPFNSA-N",1
+Chemical Name,InChIKey,"Glycerol 3-phosphate","AWUCVROLDVIAJX-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerol (didodecanoyl, n-C12:0)","DCXYFEDJOCDNAF-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"Hydrogen cyanide","LELOWRISYMNNSU-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2'-(5''-triphosphoribosyl)-3'-dephospho-CoA","NFWZJXFBUKDGOX-HWCXJHOSSA-N",0
+Chemical Name,InChIKey,"P1,P5-Bis(5'-adenosyl) pentaphosphate","OIMACDRJUANHTJ-XPWFQUROSA-N",1
+Chemical Name,InChIKey,"L-Aspartate 4-semialdehyde","HOSWPDPVFBCLSY-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"L-Serine","MTCFGRXMJLQNBG-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"5,6,7,8-Tetrahydrofolate","MSTNYGQPCMXVAQ-KIYNQFGBSA-N",1
+Chemical Name,InChIKey,"N-((R)-4-Phosphopantothenoyl)-L-cysteine","XQYALQVLCNHCFT-CBAPKCEASA-N",1
+Chemical Name,InChIKey,"DGMP C10H12N5O7P","LTFMZDNNPPEQNG-KVQBGUIXSA-N",1
+Chemical Name,InChIKey,"Dethiobiotin","AUTOLBMXDDTRRT-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Protoheme C34H30FeN4O4","KABFMIBPWCXCRK-RGGAHWMASA-L",1
+Chemical Name,InChIKey,"2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)","ODJYINYQGFIIRK-LEWJYISDSA-M",1
+Chemical Name,InChIKey,"Myo-Inositol hexakisphosphate","IMQLKJBTEOYOSI-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Dihydromonapterin-triphosphate","DGGUVLXVLHAAGT-NJGYIYPDSA-J",1
+Chemical Name,InChIKey,"D-Fructose 1-phosphate","RHKKZBWRNHGJEZ-VRPWFDPXSA-N",1
+Chemical Name,InChIKey,"1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate","MDSIZRKJVDMQOQ-GORDUTHDSA-K",1
+Chemical Name,InChIKey,"(O16 antigen)x2 undecaprenyl diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"O-Phospho-L-homoserine","FXDNYOANAXWZHG-VKHMYHEASA-N",1
+Chemical Name,InChIKey,"Alpha-D-Ribose 1-phosphate","YXJDFQJKERBOBM-TXICZTDVSA-N",1
+Chemical Name,InChIKey,"2(alpha-D-Mannosyl-6-phosphate)-D-glycerate","BOLXAGHGKNGVBE-MTXRGOKVSA-K",1
+Chemical Name,InChIKey,"GDP-4-oxo-L-fucose","PNHLMHWWFOPQLK-WAMCPPDZSA-L",1
+Chemical Name,InChIKey,"1-deoxy-D-xylulose 5-phosphate","AJPADPZSRRUGHI-RFZPGFLSSA-N",1
+Chemical Name,InChIKey,"3-Phospho-D-glycerate","OSJPPGNTCRNQQC-UWTATZPHSA-N",1
+Chemical Name,InChIKey,"D-Glucose 6-phosphate","VFRROHXSMXFLSN-SLPGGIOYSA-N",1
+Chemical Name,InChIKey,"Trans-Aconitate","GTZCVFVGUGFEME-HNQUOIGGSA-N",1
+Chemical Name,InChIKey,"(O16 antigen)x3 undecaprenyl diphosphate","XLRHXNIVIZZOON-WFUPGROFSA-L",1
+Chemical Name,InChIKey,"Myristoyl-ACP (n-C14:0ACP)","GFFGJBXGBJISGV-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"6-phospho-D-glucono-1,5-lactone","IJOJIVNDFQSGAB-SQOUGZDYSA-N",1
+Chemical Name,InChIKey,"L-Proline","ONIBWKKTOPOVIA-BYPYZUCNSA-N",1
+Chemical Name,InChIKey,"5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide","ABCOOORLYAOBOZ-KQYNXXCUSA-N",1
+Chemical Name,InChIKey,"Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate","ORYXFVQODWYDMG-JXWMOMLFSA-L",1
+Chemical Name,InChIKey,"2-tetradecanoyl-sn-glycerol 3-phosphate","FAZBDRGXCKPVJU-MRXNPFEDSA-L",1
+Chemical Name,InChIKey,"Pyridoxine 5'-phosphate","WHOMFKWHIQZTHY-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"2-Dehydro-D-gluconate","VBUYCZFBVCCYFD-JJYYJPOSSA-N",1
+Chemical Name,InChIKey,"Acetyl-maltose","IJVLHLCOMOKFHH-DURRTVQMSA-N",1
+Chemical Name,InChIKey,"Chorismate","WTFXTQVDAKGDEY-HTQZYQBOSA-N",1
+Chemical Name,InChIKey,"D-Allose","WQZGKKKJIJFFOK-IVMDWMLBSA-N",1
+Chemical Name,InChIKey,"Trans-Hex-2-enoyl-CoA","OINXHIBNZUUIMR-IXUYQXAASA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)","GYCPLYCTMDTEPU-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"(S)-3-Hydroxyhexadecanoyl-CoA","DEHLMTDDPWDRDR-QQOJFMBSSA-J",1
+Chemical Name,InChIKey,"L-Aspartate","CKLJMWTZIZZHCS-REOHCLBHSA-N",1
+Chemical Name,InChIKey,"2-Demethylmenaquinone 8","OSDFYZPKJKRCRR-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Thiosulfate","DHCDFWKWKRSZHF-UHFFFAOYSA-L",1
+Chemical Name,InChIKey,"Coenzyme A","RGJOEKWQDUBAIZ-IBOSZNHHSA-N",1
+Chemical Name,InChIKey,"(-)-Ureidoglycolate","NWZYYCVIOKVTII-SFOWXEAESA-N",1
+Chemical Name,InChIKey,"Shikimate 5-phosphate","QYOJSKGCWNAKGW-PBXRRBTRSA-N",1
+Chemical Name,InChIKey,"N2-Succinyl-L-ornithine","VWXQFHJBQHTHMK-LURJTMIESA-N",1
+Chemical Name,InChIKey,"UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine","BEGZZYPUNCJHKP-DBYWSUQTSA-N",1
+Chemical Name,InChIKey,"1,2-ditetradecanoyl-sn-glycerol 3-phosphate","OZSITQMWYBNPMW-GDLZYMKVSA-L",1
+Chemical Name,InChIKey,"L-tartrate","FEWJPZIEWOKRBE-JCYAYHJZSA-L",1
+Chemical Name,InChIKey,"1-(5-Phosphoribosyl)-ATP","RKNHJBVBFHDXGR-KEOHHSTQSA-N",1
+Chemical Name,InChIKey,"1,4-alpha-D-glucan","WQZGKKKJIJFFOK-DVKNGEFBSA-N",1
+Chemical Name,InChIKey,"L-Lysine-tRNA (Lys)","KDXKERNSBIXSRK-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"Phospho-heptosyl-heptosyl-kdo2-lipidA","XNYUHCDJIRFEJF-LIOVHSHWSA-F",1
+Chemical Name,InChIKey,"S-Adenosyl-L-homocysteine","ZJUKTBDSGOFHSH-WFMPWKQPSA-N",1
+Chemical Name,InChIKey,"Molybdate","MEFBJEMVZONFCJ-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Thymidine C10H14N2O5","IQFYYKKMVGJFEH-XLPZGREQSA-N",1
+Chemical Name,InChIKey,"Iron (Fe3+)","VTLYFUHAOXGGBS-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)","LYCAIKOWRPUZTN-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"(S)-2-Acetolactate","NMDWGEGFJUBKLB-YFKPBYRVSA-N",1
+Chemical Name,InChIKey,"DAMP C10H12N5O6P","KHWCHTKSEGGWEX-RRKCRQDMSA-N",1
+Chemical Name,InChIKey,"Undecaprenyl diphospho N-acetyl-glucosamine","NEVJGTXBHJNFAZ-JXCMATCVSA-L",1
+Chemical Name,InChIKey,"3-Phosphohydroxypyruvate","LFLUCDOSQPJJBE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"Allantoate","NUCLJNSWZCHRKL-UHFFFAOYSA-M",1
+Chemical Name,InChIKey,"Periplasmic protein disulfide isomerase I (reduced)","AGPKZVBTJJNPAG-WHFBIAKZSA-N",1
+Chemical Name,InChIKey,"Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)","RTNLUFLDZOAXIC-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)","DAUAQNGYDSHRET-UHFFFAOYSA-N",0
+Chemical Name,InChIKey,"D-Gluconate","RGHNJXZEOKUKBD-SQOUGZDYSA-N",1
+Chemical Name,InChIKey,"(R)-Pantothenate","GHOKWGTUZJEAQD-ZETCQYMHSA-N",1
+Chemical Name,InChIKey,"Oxamate","SOWBFZRMHSNYGE-UHFFFAOYSA-N",1
+Chemical Name,InChIKey,"4-Hydroxyphenylacetaldehyde","IPRPPFIAVHPVJH-UHFFFAOYSA-N",1

@@ -2,14 +2,16 @@
 '''
 Things this script needs to accomplish
 1. Isolate metabolite names from BiGG genome-scale model .json file
-2. Convert metabolite names to InCHI Keys
+2. Convert metabolite names to InCHI Keys (done using Fiehn Lab Chemical Translation Service)
 3. Search .msl file for InCHI keys and create new library file with only matching entries
 
 '''
 
 
 import json
-	
+import pycurl
+from io import BytesIO
+
 def pullMetabolites():
     #This function outputs a list of the names of metabolites in a BiGG database genome-scale model (.json format)
     input_file = open('C:\GitHub\pythonScripts\MSlibrary-generation\iAF1260b.json','r')
@@ -34,11 +36,51 @@ def pullMetabolites():
     return metabolites
    
 
-#Need a function to isolate entries in the .msl file and search whether the names match or not
+#Translate names to InCHIKeys
+def translate_to_INCHIKeys():
+    input = open('C:\GitHub\pythonScripts\MSlibrary-generation\metabolite_names_test.txt','r')
+    met_list = input.readlines()
+    buffer = BytesIO()
+    c = pycurl.Curl()
+    
+    inchikey_list = []
+    #Iterate through each line and access each individual URL
+    for item in met_list:
+        print(item)
+        c.setopt(c.URL, 'http://cts.fiehnlab.ucdavis.edu/rest/score/Chemical%20Name/' + item + '/biological')
+        c.setopt(c.WRITEDATA, buffer)
+        c.perform()
+        #c.close()
+
+        body = buffer.getvalue()
+        # Body is a byte string.
+        # We have to know the encoding in order to print it to a text file
+        # such as standard output.
+        
+        #NEED TO HANDLE EXCEPTIONS WHEN MULTIPLE INCHIKEYS COME UP AND WHEN NONE COME UP
+        out = body.decode('iso-8859-1')
+        out = json.loads(out)
+        #print(out)
+        out = out['result']
+        out = out[0]
+        out = out['InChiKey']
+        inchikey_list.append(out)
+    c.close()
+    input.close()
+    print(inchikey_list)
+    return	
+
+'''	
+#Need a function to isolate entries in the .msl file and search whether the identifiers match or not
+def searchGMD(keys,msl_file):
+    #This function reads the .msl file containing mass spec info, searches it for InCHI keys matching those in the input .txt file
+	#and outputs a .msl file with the specific library entries
+'''
    
 def main():
-    temp = pullMetabolites()
-    print(temp)
+    #temp = pullMetabolites()
+    #print(temp)
+	translate_to_INCHIKeys()
     
 
 
