@@ -38,19 +38,25 @@ def pullMetabolites():
 
 #Translate names to InCHIKeys
 def translate_to_INCHIKeys():
-    input = open('C:\GitHub\pythonScripts\MSlibrary-generation\metabolite_names_test.txt','r')
+    input = open('C:\GitHub\pythonScripts\MSlibrary-generation\metabolite_names.txt','r')
     met_list = input.readlines()
-    buffer = BytesIO()
-    c = pycurl.Curl()
+    
+    
     
     inchikey_list = []
     #Iterate through each line and access each individual URL
+    
     for item in met_list:
-        print(item)
-        c.setopt(c.URL, 'http://cts.fiehnlab.ucdavis.edu/rest/score/Chemical%20Name/' + item + '/biological')
+        #print('Metabolite is ' + item)
+        buffer = BytesIO()
+        c = pycurl.Curl()
+        url = 'http://cts.fiehnlab.ucdavis.edu/rest/convert/Chemical%20Name/InChiKey/' + item[0:-1]
+        #print(url)
+        #url = 'http://cts.fiehnlab.ucdavis.edu/rest/convert/Chemical%20Name/InChiKey/UDPglucose'
+        c.setopt(c.URL, url)
         c.setopt(c.WRITEDATA, buffer)
         c.perform()
-        #c.close()
+        c.close()
 
         body = buffer.getvalue()
         # Body is a byte string.
@@ -58,16 +64,26 @@ def translate_to_INCHIKeys():
         # such as standard output.
         
         #NEED TO HANDLE EXCEPTIONS WHEN MULTIPLE INCHIKEYS COME UP AND WHEN NONE COME UP
-        out = body.decode('iso-8859-1')
-        out = json.loads(out)
-        #print(out)
-        out = out['result']
-        out = out[0]
-        out = out['InChiKey']
-        inchikey_list.append(out)
-    c.close()
+        out = str(body.decode('iso-8859-1'))
+
+        #print('This is the output ' + out)
+        try:
+            out = json.loads(out)
+            #print(out)
+            out = out[0]
+            out = out['result']
+            out = out[0]
+            inchikey_list.append(out)
+        except:
+            inchikey_list.append('NotFound_in_PubChem')
+            continue
+    
     input.close()
-    print(inchikey_list)
+    #print(inchikey_list)
+    #output InChiKey list to text file to be read for .msl file filtering
+    output_file = open('InChiKeys.txt','w')
+    for key in inchikey_list:
+        output_file.write(key + '\n')
     return	
 
 '''	
