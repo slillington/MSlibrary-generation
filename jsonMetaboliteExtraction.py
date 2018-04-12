@@ -102,6 +102,8 @@ def translate_to_INCHIKeys():
     output_file = open('InChiKeys_iAF1260b.txt','w')
     for key in inchikey_list:
         output_file.write(key + '\n')
+    
+    output_file.close()
     return	
 
 '''	
@@ -122,11 +124,9 @@ def filterGMD(inchikey_file_path, libfile_path, outputfile_path):
     keys = open(inchikey_file_path,'r')
     gmd = open(libfile_path,'r')
     keys = keys.readlines() #creates a list of strings that are InChiKeys + \n character
-    
-
-    #Remove the part of the InChiKey denoting protonation state (last character)
-    for key in keys:
-        key = key[0:-3]
+    keys2 = [] #list of keys without protonation state
+    for k in keys:
+        keys2.append(k[0:-2]) #Remove the part of the InChiKey denoting protonation state (last character)
 
     gmd = gmd.readlines()
     newfile = open(outputfile_path,'w')
@@ -136,8 +136,8 @@ def filterGMD(inchikey_file_path, libfile_path, outputfile_path):
     for line in gmd:
         if not line == '\n':
             entry[j] = entry[j] + line
-            #if line.startswith('MET_INCHIKEY'):
-                #GMDinchikeys[j] = line[-29:-3] #remove the charge descriptor since not necessary for matching here
+            if line.startswith('MET_INCHIKEY'):
+                GMDinchikeys.append(line[-29:-2]) #remove the charge descriptor since not necessary for matching here
         else:        
             entry.append('')
             j = j+1            
@@ -151,18 +151,22 @@ def filterGMD(inchikey_file_path, libfile_path, outputfile_path):
         #Check if block has an InChiKey
         block_key_idx = block.find('MET_INCHIKEY')
         
-        #print(block_key)
         if not block_key_idx == -1:
-            block_key = block[block_key_idx+14:block_key_idx+42]
-            if block_key in key:
-                newfile.write(block + '\n')
-                break
+            block_key = block[block_key_idx+14:block_key_idx+40]
             
-                    
-
+            if block_key in keys2:
+                newfile.write(block + '\n')
+            
         else:
             newfile.write(block + '\n')
-                
+    
+
+    for i in keys2:
+        if not i in GMDinchikeys:
+            inchis_not_in_GMD.append(i)
+
+    #Write InChiKeys not in GMD to a txt file to translate back to names using  
+               
     return list(set(inchis_not_in_GMD))
 
 
@@ -173,7 +177,7 @@ def test():
     '''
     #translate_to_INCHIKeys()
     not_in_GMD = filterGMD('C:\Github\pythonScripts\MSlibrary-generation\InChiKeys_iAF1260b_combined.txt','C:\Github\pythonScripts\MSlibrary-generation\GMD-20111121_Var5_ALK.msl','C:\Github\pythonScripts\MSlibrary-generation\GMD_iAF1260b.msl')
-    print(len(not_in_GMD))
+    #For E coli iAF1260b, 828 metabolites in the model are not found in Golm
     
     
 
@@ -183,9 +187,7 @@ def test():
   
 def main():
     test()
-    #filterGMD('C:\Github\pythonScripts\MSlibrary-generation\InChiKeys.txt','C:\Github\pythonScripts\MSlibrary-generation\GMD-20111121_Var5_ALK.msl','C:\Github\pythonScripts\MSlibrary-generation\Testoutput.msl')
     
-
 
 
 if __name__ == "__main__":
