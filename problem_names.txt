@@ -1,131 +1,63 @@
 3'-Phosphoadenylyl sulfate
-Chloride
-O-Phospho-4-hydroxy-L-threonine
-UDP-N-acetyl-D-mannosamine
-Succinate
-Anthranilate
-Arsenate
 Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]
-UDPgalactose
 D-Allose 6-phosphate
 Cardiolipin (tetratetradecanoyl, n-C14:0)
-Allantoin
-D-Cysteine
-4-Aminobenzoate
-2'-(5''-triphosphoribosyl)-3'-dephospho-CoA
 Lipid A Disaccharide
 Oxidized thioredoxin
 3-(Imidazol-4-yl)-2-oxopropyl phosphate
-5-Dehydro-D-gluconate
 L-Methionine Sulfoxide
-L-Citrulline
-Trans-Dodec-2-enoyl-CoA
-XTP
-L-2-Amino-3-oxobutanoate
 Maltotriose C18H32O16
 GDP C10H12N5O11P2
-TRNA(Thr)
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)
 Trans-Hex-2-enoyl-[acyl-carrier protein]
 D-Ribose 1,5-bisphosphate
 Alpha,alpha'-Trehalose 6-phosphate
-D-Galactonate
 1-octadecanoyl-sn-glycerol 3-phosphate
-N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide
 Octadecenoate (n-C18:1)
 1-hexadec-9-enoyl-sn-glycerol 3-phosphate
-Deamino-NAD+
 N2-Succinyl-L-glutamate 5-semialdehyde
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)
 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)
 Phosphatidylserine (didodecanoyl, n-C12:0)
-6-phospho-D-glucono-1,5-lactone
-6-Phospho-D-gluconate
-L-Glutaminyl-tRNA(Gln)
-(R)-2,3-Dihydroxy-3-methylpentanoate
 DUMP C9H11N2O8P
 Thymine C5H6N2O2
-5-Phospho-beta-D-ribosylamine
-3,4-Dihydroxyphenylacetaldehyde
 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
-5-phosphoribosyl-5-carboxyaminoimidazole
 Thiamin monophosphate
-Acetyl-maltose
 2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
-(S)-3-Hydroxybutanoyl-CoA
-Maltohexaose
-2-Oxoglutarate
 Guanosine 3',5'-bis(diphosphate)
-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate
 Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)
-Oxaloacetate
-N-(5-Phospho-D-ribosyl)anthranilate
-L-seryl-AMP
 Undecaprenyl phosphate-4-amino-4-formyl-L-arabinose
 L-Glutamate 1-semialdehyde
-1,6-anhydrous-N-Acetylmuramyl-tripeptide
-N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide
-Trehalose
-Diphosphate
-2,5-diketo-D-gluconate
 P1,P4-Bis(5'-guanosyl) tetraphosphate
-Methylisocitrate
 Glycerol 3-phosphate
 Isethionic acid
-Pyridoxamine
-S-Ribosyl-L-homocysteine
 3-Oxodecanoyl-[acyl-carrier protein]
-L-tartrate
 DUTP C9H11N2O14P3
 Ferric 2,3-dihydroxybenzoylserine
 D-Sorbitol 6-phosphate
-Galactitol
 Menaquinone 8
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)
-(R)-S-Lactoylglutathione
-TRNA(Arg)
-Phosphonate
 DAMP C10H12N5O6P
-D-Tagaturonate
-L-Tyrosyl-tRNA(Tyr)
-(S)-3-Hydroxydecanoyl-CoA
-5,6,7,8-Tetrahydrofolate
 Two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain)
-Phenethylamine
 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)
 Flavin adenine dinucleotide reduced
-L-alanine-D-glutamate
 Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
-Agmatine
-Allantoate
-Ubiquinol-8
-N-Succinyl-LL-2,6-diaminoheptanedioate
 (3R)-3-Hydroxyacyl-[acyl-carrier protein]
 Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]
-Formate
-O-Succinylbenzoyl-CoA
-N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole
-LL-2,6-Diaminoheptanedioate
 Sucrose 6-phosphate
-3-Dehydro-L-gulonate
-Undecaprenyl-diphospho-N-acetylglucosamine-N-acetylmannosaminuronate
-Fe(III)hydroxamate
 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)
 2',3'-Cyclic UMP
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)
-Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
 Inorganic triphosphate
 D-Glycero-D-manno-heptose 7-phosphate
-Mercaptopyruvate
 Shikimate 5-phosphate
 (O16 antigen)x4 core oligosaccharide lipid A
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)
 D-Glucose 1-phosphate
 Dimethyl sulfoxide
 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)
-TRNA(Ile)
 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate
 Two disacharide linked murein units, tripeptide crosslinked tripeptide (A2pm->A2pm) (middle of chain)
 DGTP C10H12N5O13P3
@@ -133,27 +65,10 @@ Trimethylamine N-oxide
 Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose
 Uroporphyrinogen III
 Maltose 6'-phosphate
-4-Hydroxybenzoate
-N-Carbamoyl-L-aspartate
 Glutaredoxin (reduced)
-Magnesium
-2-Isopropylmaleate
-N-Acetyl-D-galactosamine
-Deoxycytidine
-2,3-Dihydro-2,3-dihydroxybenzoate
 6-hydroxymethyl-dihydropterin pyrophosphate
-Enterochelin
 4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A
-1-(5-Phosphoribosyl)-AMP
-DTDP-4-dehydro-6-deoxy-L-mannose
 AMP C10H12N5O7P
-(R)-Pantoate
-Kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA
-5-Methyltetrahydrofolate
-D-4'-Phosphopantothenate
-TRNA(Cys)
-2(alpha-D-Mannosyl-6-phosphate)-D-glycerate
-5-Amino-6-(5'-phosphoribitylamino)uracil
 Trans-Hexadec-2-enoyl-[acyl-carrier protein]
 CAMP C10H11N5O6P
 Hexanoyl-CoA (n-C6:0CoA)
@@ -161,151 +76,71 @@ Melibiose C12H22O11
 Pyridoxal 5'-phosphate
 Hexadecanoate (n-C16:0)
 Three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)
-Copper
-L-Seryl-tRNA(Sec)
-D-Fructose
 Coprogen unloaded (no Fe(III))
 DIMP C10H12N4O7P
-Butanoyl-CoA
-L-Phenylalanine
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)
-GDP-D-mannose
-TRNA(Trp)
-S-Adenosyl-4-methylthio-2-oxobutanoate
 R-3-hydroxypalmitoyl-[acyl-carrier protein]
 Octanoyl-CoA (n-C8:0CoA)
 N-Acetyl-L-glutamate 5-semialdehyde
-5-Amino-4-oxopentanoate
-Cis-Aconitate
 Trans-3-cis-11-vacceoyl-[acyl-carrier protein]
 Octanoyl-ACP (n-C8:0ACP)
 Palmitoyl-ACP (n-C16:0ACP)
-D-Altronate
-Prephenate
-O-Succinylbenzoate
 UTP C9H11N2O15P3
-UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
-D-carnitinyl-CoA
-1,6-anhydrous-N-Acetylmuramyl-tetrapeptide
 Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose
 2-Deoxy-D-ribose 5-phosphate
 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)
 Phosphatidylserine (ditetradec-7-enoyl, n-C14:1)
 (O16 antigen)x3 undecaprenyl diphosphate
-L-Carnitinyl-CoA
-3-Carboxy-2-hydroxy-4-methylpentanoate
-5-Amino-6-(5'-phosphoribosylamino)uracil
-Dihydroxyacetone
 Acyl phosphatidylglycerol (n-C14:1)
 Iron (Fe3+)
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)
-5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide
-Trans-Octadec-2-enoyl-CoA
-2-Dehydro-3-deoxy-D-galactonate
 Undecaprenyl diphospho N-acetyl-glucosamine
 Cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1)
 Thymidine C10H14N2O5
 Xanthosine 5'-phosphate
-Hydrogen
-3-(3-hydroxy-phenyl)propionate
 Decanoyl-ACP (n-C10:0ACP)
-L-Tyrosine
 Butyrate (n-C4:0)
 Acyl carrier protein
-Nicotinate
-Molybdate
-1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
-Trans-Hex-2-enoyl-CoA
-TRNA(SeCys)
-Iminoaspartate
 Myo-Inositol hexakisphosphate
-N-Acetyl-D-mannosamine
 Periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized)
 Dodecanoyl-CoA (n-C12:0CoA)
-ADP-L-glycero-D-manno-heptose
-(R)-Methylmalonyl-CoA
 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)
 D-Glucuronate 1-phosphate
-N-Methyltryptophan
-Dihydropteroate
 3-Oxohexadecanoyl-[acyl-carrier protein]
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)
-L-Glutamine
-2-Dehydro-D-gluconate
-(R)-Glycerate
 IMP C10H11N4O8P
-Shikimate
-L-Histidinol
-N1-Acetylspermidine
-GDP-4-oxo-L-fucose
 Guanosine 3'-diphosphate 5'-triphosphate
 Octadecanoyl-ACP (n-C18:0ACP)
-4-Hydroxy-2-oxopentanoate
-CDP-1,2-ditetradecanoylglycerol
 Protein disulfide isomerase II (reduced)
-Lipoprotein
-O-Succinyl-L-homoserine
 Octadecenoyl-CoA (n-C18:1CoA)
 Cold adapted KDO(2)-lipid (A)
-Uracil
 Phosphoethanolamine KDO(2)-lipid (A)
 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)
-2-Dehydro-L-gulonate
 Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)
 D-Mannose 1-phosphate
-L-Aspartyl-tRNA(Asp)
-Phosphotyrosine
-UDP-N-acetylmuramoyl-L-alanyl-D-glutamate
 Butanal C4H8O
-Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol
-Citrate
 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)
-Trans-Oct-2-enoyl-CoA
 N-Acetyl-D-glucosamine 6-phosphate
 DGMP C10H12N5O7P
 Hydrogen sulfide
-L-Lactate
 Protoheme C34H30FeN4O4
-1-deoxy-D-xylulose
 Hexadecenoate (n-C16:1)
 Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)
-Glycolaldehyde
-3-Oxodecanoyl-CoA
 Dimethyl sulfide
 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)
 Decanoyl-CoA (n-C10:0CoA)
-L-Histidyl-tRNA(His)
-S-Formylglutathione
 Fused thiol:disulfide interchange protein (reduced)
 Riboflavin C17H20N4O6
-Acetoacetyl-ACP
 Fused thiol:disulfide interchange protein (oxidized)
-2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine
 Urate C5H4N4O3
-4-(1-D-Ribitylamino)-5-aminouracil
 Hepta-acylated core oligosaccharide lipid A (E. coli)
 Alpha-D-Ribose 5-phosphate
-3-(2,3-Dihydroxyphenyl)propanoate
 3,4-dihydroxy-2-butanone 4-phosphate
-L-Homocysteine
-L-Cysteinyl-tRNA(Cys)
-2,3,4,5-Tetrahydrodipicolinate
-Hydroquinone
-Nickel
-Phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA
-D-Ribose
-TRNA(Val)
 Malonyl-[acyl-carrier protein]
-Psicoselysine
 Undecaprenyl phosphate
 Succinate semialdehyde-thiamin diphosphate anion
 4-Hydroxy-benzyl alcohol
-Phosphate
-Deoxyadenosine
 Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1)
-(S)-3-Hydroxyhexanoyl-CoA
-N-Succinyl-2-L-amino-6-oxoheptanedioate
-Trans-Dec-2-enoyl-CoA
 3-Oxotetradecanoyl-[acyl-carrier protein]
 Trans-Oct-2-enoyl-[acyl-carrier protein]
 Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)
@@ -313,727 +148,343 @@ Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cycl
 DGDP C10H12N5O10P2
 KDO-lipid IV(A)
 L-Threonine O-3-phosphate
-3-Oxooctanoyl-CoA
-D-Malate
-Adenine
-Acetate
-Applipoprotein
 Protoporphyrinogen IX
-3-Octaprenyl-4-hydroxybenzoate
-Propanal
 Flavin adenine dinucleotide oxidized
-UDP-N-acetyl-D-glucosamine
-L-Tryptophan
-Isocitrate
 2-hexadecanoyl-sn-glycerol 3-phosphate
 Tetradecanoate (n-C14:0)
 2',3'-Cyclic AMP
-CDP-1,2-dioctadecanoylglycerol
-N2-Succinyl-L-ornithine
-Maltopentaose
 D-Tagatose 1,6-biphosphate
 2-Demethylmenaquinol 8
 (enterobacterial common antigen)x4 undecaprenyl-diphosphate
 Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
 Phenylacetic acid
 Alpha-D-Galactose 1-phosphate
-Adenosine-GDP-cobinamide
 DCDP C9H12N3O10P2
 Tetradecenoate (n-C14:1)
-Glyoxylate
-(-)-Ureidoglycolate
-D-Galacturonate
-D-Glucarate
-2-Octaprenyl-6-hydroxyphenol
-TRNA(Gly)
-Xanthosine
-(S)-2-Aceto-2-hydroxybutanoate
 Maltose C12H22O11
 3  AMP C10H12N5O7P
 D-Ribulose 5-phosphate
-Dethiobiotin
-D-Alanine
-CMP-3-deoxy-D-manno-octulosonate
 DTDP C10H13N2O11P2
-4,5-dihydroxy-2,3-pentanedione
-Aerobactin
-D-Allose
-DTDPglucose
-D-Lactaldehyde
 Acyl phosphatidylglycerol (n-C16:1)
-(R)-Pantothenate
 Periplasmic protein disulfide isomerase I (oxidized)
-(2,3-Dihydroxybenzoyl)adenylate
-2-Octaprenylphenol
 Acyl phosphatidylglycerol (n-C12:0)
 (R)-3-Hydroxydecanoyl-[acyl-carrier protein]
-L-Arginine
 Carbamoyl phosphate
-Fe-enterobactin
-(S)-2-Acetolactate
 D-biotin d-sulfoxide
 2-tetradecanoyl-sn-glycerol 3-phosphate
-S-Adenosyl-L-homocysteine
 D-Glycero-D-manno-heptose 1,7-bisphosphate
 1-deoxy-D-xylulose 5-phosphate
-D-Glucuronate
-3-Methyl-2-oxobutanoate
-Acetyl-CoA
-3-Sulfino-L-alanine
-N-Acetylneuraminate
 Adenosyl cobinamide
 (R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]
-N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
 Allulose 6-phosphate
-L-alanine-L-glutamate
-N-Acetylmuramate
-L-Threonyl-tRNA(Thr)
 (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]
 L-Histidinol phosphate
-L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate
 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)
-5-Methylthio-D-ribose
 Phosphatidylethanolamine (ditetradecanoyl, n-C14:0)
 D-Xylulose 5-phosphate
 L-Xylulose 5-phosphate
-Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala
-2-Hydroxy-3-oxopropanoate
 Sucrose C12H22O11
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)
 Octanoate (n-C8:0)
-Sulfate
-UDP-4-keto-pyranose
 3-Oxooctanoyl-[acyl-carrier protein]
-(R)-2,3-Dihydroxy-3-methylbutanoate
-Manganese
 Two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain)
 Galactitol 1-phosphate
 Trans-octadec-2-enoyl-[acyl-carrier protein]
-UDP-D-galacto-1,4-furanose
 CDP C9H12N3O11P2
 2-Demethylmenaquinone 8
-3-Phosphohydroxypyruvate
-DTDP-4-dehydro-6-deoxy-D-glucose
-N2-Succinyl-L-glutamate
-D-Serine
 Three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)
-8-Amino-7-oxononanoate
-Deoxyuridine
-UDP-N-acetylmuramate
 1-dodecanoyl-sn-glycerol 3-phosphate
-6-Acetyl-D-glucose
 Phosphatidylethanolamine (didodecanoyl, n-C12:0)
-Maltoheptaose
-(S)-3-Hydroxydodecanoyl-CoA
-(S)-3-Methyl-2-oxopentanoate
 Taurine C2H7NO3S
-Glycerophosphoglycerol
-D-Glyceraldehyde
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)
 Siroheme C42H36FeN4O16
 Trans-Tetradec-2-enoyl-[acyl-carrier protein]
 3-Phospho-D-glyceroyl phosphate
 2-dodecanoyl-sn-glycerol 3-phosphate
-D-Fructuronate
 Phosphatidylserine (dihexadecanoyl, n-C16:0)
-Gamma-butyrobetainyl-CoA
 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)
-2-Oxopent-4-enoate
-Adenosylcobalamin
-DTDP-L-rhamnose
-XDP
 Sedoheptulose 7-phosphate
-Ubiquinone-8
 Adenosine 5'-phosphosulfate
 Thiamine diphosphate
 DTTP C10H13N2O14P3
 D-Arabinose 5-phosphate
-L-Threonine
 Mercury  charged 2  Hg
 NMN C11H14N2O8P
-D-Carnitine
-UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine
 Succinic semialdehyde
 Trans-Dodec-2-enoyl-[acyl-carrier protein]
 2-octadecanoyl-sn-glycerol 3-phosphate
-Deoxyinosine
-5-O-(1-Carboxyvinyl)-3-phosphoshikimate
-L-Aspartate
-2,3-dihydroxybenzoylserine
-(R)-Propane-1,2-diol
 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]
 Orotidine 5'-phosphate
 2',3'-Cyclic GMP
 Hepta-acylated KDO(2)-lipid (A)
-2,3-Dihydroxybenzoate
-Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol
 ADPglucose C16H23N5O15P2
-D-Methionine
-L-Prolyl-tRNA(Pro)
 L-Glutamate 5-phosphate
 DTMP C10H13N2O8P
-L-methionine-R-sulfoxide
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)
-Potassium
-TRNA(Ser)
 KDO(2)-lipid (A)
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)
-(S)-Dihydroorotate
-Trans-Aconitate
 Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)
 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate
 H2O H2O
 Glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A
 Phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)
-L-Valyl-tRNA(Val)
-Sulfite
 Adenosyl cobinamide phosphate
 Isopentenyl diphosphate
-4-amino-4-deoxychorismate
-L-Cysteine
 TRNA (Glu)
 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate
 Pyridoxine 5'-phosphate
 D-Fructose 1,6-bisphosphate
 O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
 IDP C10H11N4O11P2
-Pyruvate
-S-Adenosyl-L-methionine
-Glycerol
-1-(5-Phosphoribosyl)-ATP
-D-Mannitol
 5-Methylthio-5-deoxy-D-ribose 1-phosphate
-D-Galactarate
 Cardiolipin (tetradodecanoyl, n-C12:0)
-3-Phospho-D-glycerate
-Pyridoxal
 DIDP; 2'-deoxyinosine-5'-diphosphate(3-)
-2-Dehydropantoate
-UDP-N-acetylmuramoyl-L-alanine
-L-Serine
-5-Methylthioadenosine
-CDP-1,2-dihexadecanoylglycerol
 P1,P5-Bis(5'-adenosyl) pentaphosphate
 3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]
-Sulfur
-2,3-diaminopropionate
-TRNA(Ala)
 Nicotinamide adenine dinucleotide phosphate - reduced
 Tetradecanoyl-CoA (n-C14:0CoA)
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)
-L-Cystathionine
 D-Glycero-D-manno-heptose 1-phosphate
 Cardiolipin (tetrahexadec-9-enoyl, n-C16:1)
 1-tetradecanoyl-sn-glycerol 3-phosphate
 Reduced FMN
 DADP C10H12N5O9P2
-3-Oxohexadecanoyl-CoA
 Glyceraldehyde 3-phosphate
 Alpha-D-Ribose 1-phosphate
-Trans-Cinnamate
-3-(4-Hydroxyphenyl)pyruvate
-Phenylacetyl-CoA
 D-Tagatose 6-phosphate
-L-Lyxose
 Gamma-glutamyl-gamma aminobutyric acid
-Nicotinamide
 N-Acetyl-D-galactosamine 1-phosphate
 Hexadecenoyl-CoA (n-C16:1CoA)
 DATP C10H12N5O12P3
-(S)-Propane-1,2-diol
-5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
-Methanesulfonate
 Phosphatidylglycerol (ditetradecanoyl, n-C14:0)
-Phenylacetaldehyde
-3-Dehydroquinate
-Succinyl-CoA
-Ethanol
-2-Methylcitrate
 KDO(2)-lipid IV(A) with palmitoleoyl
 (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
-3-Oxohexanoyl-CoA
 D-Fructose 1-phosphate
-DTDP-4-acetamido-4,6-dideoxy-D-galactose
 (O16 antigen)x2 undecaprenyl diphosphate
-TRNA(His)
-2-Octaprenyl-6-methoxyphenol
-3-keto-L-gulonate-6-phosphate
-Beta-Alanine
 DUDP C9H11N2O11P2
 2-Deoxy-D-ribose 1-phosphate
-Fumarate
 GTP C10H12N5O14P3
 Butyryl-ACP (n-C4:0ACP)
 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)
 KDO(2)-lipid IV(A)
 1-hexadecanoyl-sn-glycerol 3-phosphate
 Glucosyl-inner core oligosaccharide lipid A
-Selenophosphate
-1,6-anhydrous-N-Acetylmuramate
-Thiocyanate
-3-Oxododecanoyl-CoA
 Dodecanoate (n-C12:0)
-Fructoselysine
 (R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]
 Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)
 D-Glucose 6-phosphate
 Lactose C12H22O11
 O2 O2
 L-Ribulose 5-phosphate
-5'-Deoxyadenosine
-TRNA(Met)
-TRNA(Phe)
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)
-DTDP-4-amino-4,6-dideoxy-D-galactose
 D-Mannitol 1-phosphate
 Cardiolipin (tetratetradec-7-enoyl, n-C14:1)
-Hypoxanthine
-Hydroxypyruvate
-4-Methyl-2-oxopentanoate
-5,10-Methenyltetrahydrofolate
 Apoprotein [acyl carrier protein]
-2-Phosphoglycolate
 (enterobacterial common antigen)x2 undecaprenyl-diphosphate
 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate
 Glycerol 2-phosphate
-Crotonoyl-CoA
 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate
-N6-(1,2-Dicarboxyethyl)-AMP
-Phospho-heptosyl-heptosyl-kdo2-lipidA
 Octadecanoate (n-C18:0)
-Indole
-L-Ribulose
-L-Seryl-tRNA(Ser)
 1,2-dihexadecanoyl-sn-glycerol 3-phosphate
-Zinc
 Hexanoyl-ACP (n-C6:0ACP)
 Phosphatidylglycerol (didodecanoyl, n-C12:0)
-Ethanesulfonate
-N-Formylmethionyl-tRNA
 Arbutin 6-phosphate
-TRNA(Pro)
-D-Xylose
 6-hydroxymethyl dihydropterin
 DCTP C9H12N3O13P3
-Ammonium
 Ferrichrome minus Fe(III)
 D-Glucosamine 6-phosphate
 3-Deoxy-D-manno-octulosonate 8-phosphate
 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)
-TRNA(Lys)
 Flavodoxin (oxidized) - obsolete
 Reduced glutathione
-L-Histidine
-Bicarbonate
 1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)
-L-Idonate
 ITP C10H11N4O14P3
-Porphobilinogen
-4-Methyl-5-(2-phosphoethyl)-thiazole
 CO2 CO2
-2-keto-4-methylthiobutyrate
-Hydroxymethylglutathione
-3-Carboxy-3-hydroxy-4-methylpentanoate
-UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine
 Glutaredoxin (oxidized)
-(S)-Methylmalonyl-CoA
-Cobinamide
 Farnesyl diphosphate
-D-Mannose
 Fe(III)hydoxamate, unloaded
 2-octadec-11-enoyl-sn-glycerol 3-phosphate
-Dihydroneopterin
 L-Fuculose 1-phosphate
-Propanoyl-CoA
-Selenide
-L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine
 1,2-didodecanoyl-sn-glycerol 3-phosphate
-L-Asparagine
 Decanoate (n-C10:0)
 Two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain)
 (enterobacterial common antigen)x3 undecaprenyl-diphosphate
-N-Acetylanthranilate
-N8-Acetylspermidine
-Tyramine
-Myo-Inositol
 Sarcosine C3H7NO2
-N2-Acetyl-L-ornithine
-S-Adenosylmethioninamine
 Branching glycogen
 Coproporphyrinogen III
-Dihydrosirohydrochlorin
 D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate
-L-Methionine
-D-Galactose
 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate
-2-hydroxy-6-ketononatrienedioate
-L-Lysine
-L-Galactonate
 Nicotinamide adenine dinucleotide - reduced
-Glycyl-tRNA(Gly)
 Nicotinate D-ribonucleotide
-(S)-3-Hydroxyhexadecanoyl-CoA
 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)
 ATP C10H12N5O13P3
 2-Dehydro-3-deoxy-D-gluconate 6-phosphate
 Protein disulfide isomerase II (oxidized)
-4-Hydroxy-L-threonine
 3-hydroxycinnamic acid
-L-Fucose
-Sn-Glycero-3-phospho-1-inositol
-Putrescine
-TRNA(Asp)
 Dihydroneopterin monophosphate
 D-Erythrose 4-phosphate
-UDP-N-acetyl-D-galactosamine
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)
 5-Methylthio-5-deoxy-D-ribulose 1-phosphate
-O-Acetyl-L-serine
-Cob(I)alamin
-Guanosine
 Glycolate C2H3O3
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)
 Glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A
-L-Malate
 Nicotinamide adenine dinucleotide phosphate
 Palmitoyl-CoA (n-C16:0CoA)
-N(omega)-(L-Arginino)succinate
-5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide
-D-Glucose
 5-Phospho-alpha-D-ribose 1-diphosphate
 2-Aminomalonate semialdehyde
-Quinolinate
 UDP C9H11N2O12P2
 UMP C9H11N2O9P
 Glycine betaine
-Formaldehyde
 (R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]
 D-Glucosamine 1-phosphate
 D-Mannose 6-phosphate
 Phosphatidylglycerol (dioctadecanoyl, n-C18:0)
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)
 Dodecanoyl-ACP (n-C12:0ACP)
-Fe(III)dicitrate
-N-Acetyl-L-glutamate
-Calcium
-3-Oxooctadecanoyl-CoA
-Gamma-L-Glutamyl-L-cysteine
-2(alpha-D-Mannosyl)-D-glycerate
 Menaquinol 8
-Dopamine
 Dihydroxyacetone phosphate
 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate
-Trans-Hexadec-2-enoyl-CoA
-(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
 2-C-methyl-D-erythritol 2,4-cyclodiphosphate
-Coprogen
-D-Sorbitol
-Crotonobetainyl-CoA
-Arsenite
-GDP-4-dehydro-6-deoxy-D-mannose
-Aminoacetaldehyde
 Phosphatidylserine (dioctadec-11-enoyl, n-C18:1)
 L-Glutamate 5-semialdehyde
 (R)-3-Hydroxydodecanoyl-[acyl-carrier protein]
-Sirohydrochlorin
-Crotonobetaine
 TRNA Asn  C10H17O10PR2
 Dimethylallyl diphosphate
-L-Isoleucyl-tRNA(Ile)
-Protoporphyrin
 2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)
-O-Phospho-L-homoserine
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)
-3-Deoxy-D-manno-2-octulosonate
 Undecaprenyl diphosphate
-Ornithine
 Nitric oxide
-L-Phenylalanyl-tRNA(Phe)
-UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate
 (R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
 Reduced thioredoxin
-Cytosine
-3-Oxotetradecanoyl-CoA
 Beta D-Galactose
-Aminoacetone
-Tungstate
-UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine
 Geranyl diphosphate
 1D-myo-Inositol 1-phosphate
-7,8-Dihydrofolate
-Methylglyoxal
-Cis-2-Methylaconitate
 Acetol cytosol
 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid
 Core oligosaccharide lipid A
-Cytidine
-N-Acetyl-D-glucosamine
-CDP-1,2-dioctadec-11-enoylglycerol
-2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate
-L-Isoleucine
-Thiamin
 N-Acetyl-D-mannosamine 6-phosphate
-L-Homoserine
 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)
-D-Glutamate
-Butanesulfonate
-Sulfoacetate
-L-Arginyl-tRNA(Arg)
 (O16 antigen)x4 undecaprenyl diphosphate
-Nitrate
 Two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain)
-2-Oxo-3-hydroxy-4-phosphobutanoate
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)
 Phosphatidylserine (dihexadec-9-enoyl, n-C16:1)
-10-Formyltetrahydrofolate
-2-Dehydro-3-deoxy-D-gluconate
-Heptosyl-heptosyl-kdo2-lipidA
-Heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA
 All-trans-Octaprenyl diphosphate
 Oxidized glutathione
 1,2-ditetradecanoyl-sn-glycerol 3-phosphate
 Acyl phosphatidylglycerol (n-C18:1)
 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
 N-acetylmuramate 6-phosphate
-4-Methyl-5-(2-hydroxyethyl)-thiazole
 Adenosine 3',5'-bisphosphate
-D-Gluconate
-2,3-diketo-5-methylthio-1-phosphopentane
-UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine
-Sn-Glycero-3-phosphoethanolamine
-Phosphoenolpyruvate
 2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol
 2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate
 L-Methionyl-tRNA (Met)
-L-Rhamnose
-Oxalureate
 Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose
-(S)-3-Hydroxyoctanoyl-CoA
-CDP-1,2-dihexadec-9-enoylglycerol
 FMN C17H19N4O9P
-(S)-3-Hydroxytetradecanoyl-CoA
-7,8-Diaminononanoate
 DCMP C9H12N3O7P
-Adenosine
 1,2-dioctadecanoyl-sn-glycerol 3-phosphate
 3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]
-L-Arabinose
 Nitrous oxide
-Co2+
 Myristoyl-ACP (n-C14:0ACP)
 ADPribose C15H21N5O14P2
-UDPglucose
 D-Fructose 6-phosphate
-Glycine
 N-Acetyl-L-glutamyl 5-phosphate
-Acetoacetyl-CoA
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)
-Acetoacetate
-GDP-L-fucose
 O16 antigen undecaprenyl diphosphate
 (R)-3-Hydroxyhexanoyl-[acyl-carrier protein]
-L-Carnitine
-L-Rhamnulose
-Acetyl-ACP
-Xanthine
 P1,P4-Bis(5'-adenosyl) tetraphosphate
-5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
 Fe2+ mitochondria
 Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)
-(S)-3-Hydroxyoctadecanoyl-CoA
 Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate
 2,3-dihydroxicinnamic acid
-UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine
-5-Dehydro-4-deoxy-D-glucarate
 Propionate (n-C3:0)
 GMP C10H12N5O8P
-L-Valine
-Chorismate
-L-Allo-threonine
-D-Glucosamine
 Nicotinamide adenine dinucleotide
 C'-(3-Indolyl)-glycerol 3-phosphate
 CMP C9H12N3O8P
 Sulfur dioxide
 Coenzyme A
 KDO(2)-lipid IV(A) with laurate
-L-Alanine
 Cardiolipin (tetraoctadecanoyl, n-C18:0)
 Reduced riboflavin
 Pyridoxamine 5'-phosphate
 L-Rhamnulose 1-phosphate
-4-Aminobutanoate
 Cardiolipin (tetrahexadecanoyl, n-C16:0)
 Hydrogen cyanide
-Maltotetraose
 2-tetradec-7-enoyl-sn-glycerol 3-phosphate
-S-Methyl-L-methionine
 Malonyl CoA C24H33N7O19P3S
-N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide
-2-Octaprenyl-6-methoxy-1,4-benzoquinol
-Sn-Glycero-3-phosphocholine
-ADP-D-glycero-D-manno-heptose
 Inner core oligosaccharide lipid A (E coli)
 Phosphatidylserine (dioctadecanoyl, n-C18:0)
 Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)
 Cys Gly C5H10N2O3S
 Hexanoate (n-C6:0)
-4-Phospho-L-aspartate
 Choline C5H14NO
-L-Proline
 But-2-enoyl-[acyl-carrier protein]
-Cu+
 L-Lysine-tRNA (Lys)
-2,3-Dioxo-L-gulonate
 3-Oxohexanoyl-[acyl-carrier protein]
-1,5-Diaminopentane
 3-Oxooctadecanoyl-[acyl-carrier protein]
-5-amino-1-(5-phospho-D-ribosyl)imidazole
 1-tetradec-7-enoyl-sn-glycerol 3-phosphate
 Ferroxamine minus Fe(3)
 Two linked disacharide tripeptide murein units (uncrosslinked, middle of chain)
-Dihydromonapterin-triphosphate
-4-Phospho-D-erythronate
-Gamma-glutamyl-gamma-butyraldehyde
 Orotate C5H3N2O4
-D-Lactate
 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)
-Meso-2,6-Diaminoheptanedioate
-5,10-Methylenetetrahydrofolate
 3  CMP C9H12N3O8P
-2,3-Dihydrodipicolinate
-TRNA(Gln)
-Silver
 Cardiolipin (tetraoctadec-11-enoyl, n-C18:1)
-Ferrichrome
-1-Pyrroline-5-carboxylate
-4-hydroxy-5-methyl-3(2H)-furanone
-L-Asparaginyl-tRNA(Asn)
-L-Ascorbate
-D-Alanyl-D-alanine
-UDP-N-acetyl-D-mannosaminouronate
 Two disacharide linked murein units, tripeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)
-D-Mannonate
 CTP C9H12N3O14P3
-Trimethylamine
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)
 1-octadec-11-enoyl-sn-glycerol 3-phosphate
-Thiosulfate
 Guanosine 3  phosphate C10H12N5O8P
-L-Leucine
 Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)
-Nitrite
 Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)
 Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)
-5'-deoxyribose
-4-Amino-5-hydroxymethyl-2-methylpyrimidine
 3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]
 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)
 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)
-Oxamate
 L-Aspartate 4-semialdehyde
-Phenylpropanoate
-Pimeloyl-CoA
 Stearoyl-CoA (n-C18:0CoA)
-Hydroxymethylbilane
-6,7-Dimethyl-8-(1-D-ribityl)lumazine
-Guanine
-CDP-1,2-ditetradec-7-enoylglycerol
-DITP(4-)
 2-hexadec-9-enoyl-sn-glycerol 3-phosphate
-N2-Succinyl-L-arginine
 Hydrogen peroxide
 Two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain)
 Galactosyl-glucosyl-inner core oligosaccharide lipid A
-L-ascorbate-6-phosphate
-L-Glutamyl-tRNA(Glu)
-L-Xylulose
 Two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain)
 3  UMP C9H11N2O9P
 Propanoyl phosphate
 ADP C10H12N5O10P2
-Acetaldehyde
 Phosphatidylserine (ditetradecanoyl, n-C14:0)
 Urea CH4N2O
 Acetyl phosphate
 2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate
-H+
-1,4-alpha-D-glucan
 Cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)
-Biotin
-L-Glutamate
-Isochorismate
-Phenylpyruvate
 Tetradecenoyl-CoA (n-C14:1CoA)
-L-Selenocysteinyl-tRNA(Sec)
-D-Xylulose
-Dephospho-CoA
-UDP-D-glucuronate
 2-C-methyl-D-erythritol 4-phosphate
-Cadmium
-L-Prolinylglycine
-4-Aminobutanal
 Phosphatidylglycerol (dihexadecanoyl, n-C16:0)
-L-Tryptophanyl-tRNA(Trp)
 Acyl phosphatidylglycerol (n-C14:0)
-Cyanate
 N-Acetyl-D-glucosamine 1-phosphate
 3-Oxododecanoyl-[acyl-carrier protein]
-Glycerophosphoserine
 Heme O C49H56FeN4O5
-L-Leucyl-tRNA(Leu)
 Generic ferrioxamine-Fe-III
 Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain)
-Spermidine
-Uridine
-3-Carboxy-4-methyl-2-oxopentanoate
-L-Alanyl-tRNA(Ala)
-O-Phospho-L-serine
 D-Glycerate 2-phosphate
 (enterobacterial common antigen)x4 core oligosaccharide lipid A
 Trans-3-cis-5-dodecenoyl-[acyl-carrier protein]
-2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol
 Fructoselysine Phosphate
-L-Lactaldehyde
 Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)
-Sodium
 Trans-Dec-2-enoyl-[acyl-carrier protein]
-5,6-Dimethylbenzimidazole
-Ethanolamine
-N-((R)-4-Phosphopantothenoyl)-L-cysteine
-Glutathionylspermidine
 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)
-Pyridoxine
-4-Hydroxyphenylacetaldehyde
 Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)
 Aerobactin minus Fe3
 Acyl phosphatidylglycerol (n-C16:0)
-Deoxyguanosine
-Inosine
 Flavodoxin (reduced) - obsolete
 (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]
 Superoxide anion
 Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)
 E-3-carboxy-2-pentenedioate 6-methyl ester
-Trans-Tetradec-2-enoyl-CoA
-1,4-Dihydroxy-2-naphthoate
-2-Oxobutanoate
-TRNA(Tyr)
-L-fuculose
 Glycogen C6H10O5
 Pantetheine 4'-phosphate
 Betaine aldehyde
-N1-(5-Phospho-D-ribosyl)glycinamide
-3-Dehydroshikimate
-Gamma-butyrobetaine
-TRNA(Leu)
-4-Amino-2-methyl-5-phosphomethylpyrimidine
 Acyl phosphatidylglycerol (n-C18:0)
-Heptosyl-kdo2-lipidA
-Gamma-glutamyl-putrescine
 Periplasmic protein disulfide isomerase I (reduced)
 2',3'-Cyclic CMP
 Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose
-CDP-1,2-didodecanoylglycerol
 Periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced)
