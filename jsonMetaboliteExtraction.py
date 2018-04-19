@@ -18,7 +18,7 @@ Things this script needs to accomplish
 
 
 import json
-import pycurl
+import requests
 from io import BytesIO
 
 def pullMetabolites():
@@ -59,30 +59,22 @@ def translate_to_INCHIKeys():
     '''
     input = open('C:\GitHub\pythonScripts\MSlibrary-generation\metabolite_names.txt','r')
     met_list = input.readlines()
-    problem_names = open('C:\Github\pythonScripts\MSlibrary-generation\problem_names.txt','w')
+    problem_names = open('C:\Github\pythonScripts\MSlibrary-generation\problem_namesNEW.txt','w')
     
     
     inchikey_list = []
     #Iterate through each line and access each individual URL
     for item in met_list:
-        buffer = BytesIO()
-        c = pycurl.Curl()
         url = 'http://cts.fiehnlab.ucdavis.edu/rest/convert/Chemical%20Name/InChiKey/' + item[0:-1]
-        c.setopt(c.URL, url)
-        c.setopt(c.WRITEDATA, buffer)
-        c.perform()
-        c.close()
-
-        body = buffer.getvalue()
-        # Body is a byte string.
-        # We have to know the encoding in order to print it to a text file
-        # such as standard output.
+        r = requests.get(url)
+        if not r.status_code == 200:
+            problem_names.write(item)
+            continue
         
-        #NEED TO HANDLE EXCEPTIONS WHEN MULTIPLE INCHIKEYS COME UP AND WHEN NONE COME UP
-        out = str(body.decode('iso-8859-1')) #For ~40% of metabolites, this is coming back showing a bad URL request
+        
 
         try:
-            out = json.loads(out)
+            out = r.json()
             #print(out)
             out = out[0]
             out = out['result']
@@ -117,6 +109,10 @@ def searchGMD(keys,msl_file):
  
 
 def filterGMD(inchikey_file_path, libfile_path, outputfile_path):
+    '''
+BUGS: 1. InChiKeys produced from CTS refer to compounds that are in Golm, but have different InChiKeys (e.g. amino acid isomers - DL- vs L- vs D-)
+
+    '''
     #input - .txt file containing InChiKeys - 1 per line
     #Input type - file
     #Output - .msl file with filtered Golm MS library
@@ -128,6 +124,8 @@ def filterGMD(inchikey_file_path, libfile_path, outputfile_path):
     for k in keys:
         keys2.append(k[0:-2]) #Remove the part of the InChiKey denoting protonation state (last character)
 
+    keys2 = list(set(keys2))
+
     gmd = gmd.readlines()
     newfile = open(outputfile_path,'w')
     entry = ['']
@@ -136,38 +134,47 @@ def filterGMD(inchikey_file_path, libfile_path, outputfile_path):
     for line in gmd:
         if not line == '\n':
             entry[j] = entry[j] + line
-            if line.startswith('MET_INCHIKEY'):
-                GMDinchikeys.append(line[-29:-2]) #remove the charge descriptor since not necessary for matching here
+            #if line.startswith('MET_INCHIKEY'):
+               # GMDinchikeys.append(line[-28:-2]) #remove the charge descriptor since not necessary for matching here
         else:        
             entry.append('')
             j = j+1            
                
-    
 
     #Now have a list of strings that are the library blocks
     #Iterate through each block and check for InChiKey. Block with no InChiKey, add to library
-    inchis_not_in_GMD = []
+    #inchis_not_in_GMD = []
     for block in entry:
         #Check if block has an InChiKey
         block_key_idx = block.find('MET_INCHIKEY')
         
         if not block_key_idx == -1:
             block_key = block[block_key_idx+14:block_key_idx+40]
-            
+            GMDinchikeys.append(block_key) #These inchikeys do not contain the very last character
             if block_key in keys2:
                 newfile.write(block + '\n')
             
         else:
             newfile.write(block + '\n')
-    
+    #print(keys2)
+    #Write InChiKeys not in GMD to a txt file to translate back to names using CTS
+    output2 = open('C:\Github\pythonScripts\MSlibrary-generation\inchikeys_not_in_GMD.txt','r+')
+    not_in_GMD = []
 
-    for i in keys2:
+    for i in keys2: 
         if not i in GMDinchikeys:
-            inchis_not_in_GMD.append(i)
+            #output2.write(i + 'N\n')
+            not_in_GMD.append(i+'N')
+        else:
+            print(i)
 
-    #Write InChiKeys not in GMD to a txt file to translate back to names using  
+    not_in_GMD = list(set(not_in_GMD))
+    for k in not_in_GMD:
+        output2.write(k+'\n')
+    
+     
                
-    return list(set(inchis_not_in_GMD))
+    return
 
 
 def test():
@@ -175,8 +182,10 @@ def test():
     This function tests and collects metrics on the generated library
 
     '''
+    #length, met_list = pullMetabolites()
+    #print(length)
     #translate_to_INCHIKeys()
-    not_in_GMD = filterGMD('C:\Github\pythonScripts\MSlibrary-generation\InChiKeys_iAF1260b_combined.txt','C:\Github\pythonScripts\MSlibrary-generation\GMD-20111121_Var5_ALK.msl','C:\Github\pythonScripts\MSlibrary-generation\GMD_iAF1260b.msl')
+    not_in_GMD = filterGMD('C:\Github\pythonScripts\MSlibrary-generation\InChiKeys_iAF1260b.txt','C:\Github\pythonScripts\MSlibrary-generation\GMD-20111121_Var5_ALK.msl','C:\Github\pythonScripts\MSlibrary-generation\GMD_iAF1260bNEW.msl')
     #For E coli iAF1260b, 828 metabolites in the model are not found in Golm
     
     

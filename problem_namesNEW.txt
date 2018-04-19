@@ -1,0 +1,8 @@
+UTP C9H11N2O15P3
+Periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized)
+3,4-dihydroxy-2-butanone 4-phosphate
+Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)
+Adenosyl cobinamide phosphate
+ATP C10H12N5O13P3
+O16 antigen undecaprenyl diphosphate
+Periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced)
