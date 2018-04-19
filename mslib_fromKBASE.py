@@ -43,40 +43,76 @@ import xlrd
 import requests
 from io import BytesIO
 
-xls = pd.ExcelFile('escherichia_coliMG1655_mets.xlsx')
+def get_model_data(excel_file_path):
+'''
+get_model_data take the list of inchikeys and smiles from an excel file that contains the .tsv download from KBASE. This .tsv download has information
+on the metabolites in a genome-scale metabolic model.
+type input: string
+input: file path to excel file containing model metabolite information
+type output inchiKeys: list of InChiKeys (type string) in the model
+type output smiles: list of SMILES (type string) in the model   
+'''
+    #xls = pd.ExcelFile('escherichia_coliMG1655_mets.xlsx')
+	xls = pd.ExcelFile(excel_file_path)
+	sheetX = xls.parse(0) #2 is the sheet number
 
-sheetX = xls.parse(0) #2 is the sheet number
+	inchiKeys = sheetX['inchikey'] #Original length = 1275 InChiKeys for E coli model
+	smiles = sheetX['smiles']
 
-inchiKeys = sheetX['inchikey'] #Original length = 1275 InChiKeys for E coli model
-smiles = sheetX['smiles']
+	inchiKeys = list(set(inchiKeys)) #After removing duplicates, 908 InChiKeys for E coli model. Assuming this removes <compound>_c0 and <compound>_e0 duplicates
+	return inchiKeys, smiles
 
-inchiKeys = list(set(inchiKeys)) #After removing duplicates, 908 InChiKeys for E coli model. Assuming this removes <compound>_c0 and <compound>_e0 duplicates
+def InChiKeyToInChi(keys):
+'''InChiKeyToInChi() take the set of InChiKeys passed as an argument and uses the ChemSpider InChiKey --> InChi functionality to pair a corresponding
+InChi to a given InChiKey. This take a while to run - on the order of 10 minutes for a list of ~900 InChiKeys.
+type input: list[string]
+input: list of InChiKey strings
+type output: list[dict]
+output: list of dictionaries with InChiKey and InChi value pairs for metabolites in the model
 
-
-url = 'https://www.chemspider.com/InChI.asmx?op=InChIKeyToInChI'
-headers = {'content-type': 'text/xml'}
-body = """<?xml version="1.0" encoding="utf-8"?>
+'''
+	url = 'https://www.chemspider.com/InChI.asmx?op=InChIKeyToInChI'
+	headers = {'content-type': 'text/xml'}
+	dict_list = []
+	for inChiKey in keys:
+		body = """<?xml version="1.0" encoding="utf-8"?>
 <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
   <soap:Body>
     <InChIKeyToInChI xmlns="http://www.chemspider.com/">
-      <inchi_key>""" +inchiKeys[1]+"""</inchi_key>
+      <inchi_key>""" +str(inChiKey)+"""</inchi_key>
     </InChIKeyToInChI>
   </soap:Body>
 </soap:Envelope>"""
-#print(body)
-response = requests.post(url,data=body,headers=headers)
-txt = BytesIO(response.content)
-txt = txt.getvalue().decode('utf-8')
-idx = txt.find('InChI=')
-inchi = ''
-while True:
-    if txt[idx] == '<':
-        break
-    else:
-        inchi = inchi + txt[idx]
-        idx = idx+1
-print (txt)
-print(inchi)
+    #print(body)
+		response = requests.post(url,data=body,headers=headers)
+		txt = BytesIO(response.content)
+		txt = txt.getvalue().decode('utf-8')
+		idx = txt.find('InChI=')
+		inchi = ''
+		while True:
+			if txt[idx] == '<':
+				break
+			else:
+				inchi = inchi + txt[idx]
+				idx = idx+1
+		temp = dict([("InChiKey",inChiKey),("InChi",inchi)])
+		dict_list.append(temp)
+	#print (dict_list)
+	return dict_list
+	
 
+
+    
+
+
+def main():
+	inChiKeys,smiles = get_model_data('escherichia_coliMG1655_mets.xlsx')
+	#print(inChiKeys)
+	met_dicts = InChiKeyToInChi(inChiKeys)
+
+
+
+if __name__ == "__main__":
+	main()
 
 
