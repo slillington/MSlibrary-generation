@@ -42,16 +42,20 @@ import pandas as pd
 import xlrd
 import requests
 from io import BytesIO
+from rdkit import Chem
+from rdkit import DataStructs
+from rdkit.Chem.Fingerprints import FingerprintMols
+from operator import itemgetter
 
 def get_model_data(excel_file_path):
-'''
-get_model_data take the list of inchikeys and smiles from an excel file that contains the .tsv download from KBASE. This .tsv download has information
-on the metabolites in a genome-scale metabolic model.
-type input: string
-input: file path to excel file containing model metabolite information
-type output inchiKeys: list of InChiKeys (type string) in the model
-type output smiles: list of SMILES (type string) in the model   
-'''
+
+#get_model_data take the list of inchikeys and smiles from an excel file that contains the .tsv download from KBASE. This .tsv download has information
+#on the metabolites in a genome-scale metabolic model.
+#type input: string
+#input: file path to excel file containing model metabolite information
+#type output inchiKeys: list of InChiKeys (type string) in the model
+#type output smiles: list of SMILES (type string) in the model   
+
     #xls = pd.ExcelFile('escherichia_coliMG1655_mets.xlsx')
 	xls = pd.ExcelFile(excel_file_path)
 	sheetX = xls.parse(0) #2 is the sheet number
@@ -63,14 +67,13 @@ type output smiles: list of SMILES (type string) in the model
 	return inchiKeys, smiles
 
 def InChiKeyToInChi(keys):
-'''InChiKeyToInChi() take the set of InChiKeys passed as an argument and uses the ChemSpider InChiKey --> InChi functionality to pair a corresponding
-InChi to a given InChiKey. This take a while to run - on the order of 10 minutes for a list of ~900 InChiKeys.
-type input: list[string]
-input: list of InChiKey strings
-type output: list[dict]
-output: list of dictionaries with InChiKey and InChi value pairs for metabolites in the model
+#InChiKeyToInChi() take the set of InChiKeys passed as an argument and uses the ChemSpider InChiKey --> InChi functionality to pair a corresponding
+#InChi to a given InChiKey. This take a while to run - on the order of 10 minutes for a list of ~900 InChiKeys.
+#type input: list[string]
+#input: list of InChiKey strings
+#type output: list[dict]
+#output: list of dictionaries with InChiKey and InChi value pairs for metabolites in the model
 
-'''
 	url = 'https://www.chemspider.com/InChI.asmx?op=InChIKeyToInChI'
 	headers = {'content-type': 'text/xml'}
 	dict_list = []
@@ -95,10 +98,24 @@ output: list of dictionaries with InChiKey and InChi value pairs for metabolites
 			else:
 				inchi = inchi + txt[idx]
 				idx = idx+1
+		
+		#Need to check if an InChi was found and if not try PubChem wrapper to get an InChi
+		
+		
 		temp = dict([("InChiKey",inChiKey),("InChi",inchi)])
 		dict_list.append(temp)
-	#print (dict_list)
-	return dict_list
+		
+	#Check the list for InChiKeys that were not paired with a corresponding InChi
+	trouble_keys = []
+	for d in dict_list:
+		if d["InChi"] == '>':
+			trouble_keys.append(d["InChiKey"])
+	#print (trouble_keys)
+	#print(len(trouble_keys))
+	trouble_file = open(r'C:\Github\pythonScripts\MSlibrary-generation\trouble_keys_file_toy.txt','w+')
+	for k in trouble_keys:
+		trouble_file.write(str(k)+'\n')
+	return dict_list, trouble_keys
 	
 
 
@@ -106,11 +123,42 @@ output: list of dictionaries with InChiKey and InChi value pairs for metabolites
 
 
 def main():
-	inChiKeys,smiles = get_model_data('escherichia_coliMG1655_mets.xlsx')
+	inChiKeys,smiles = get_model_data('toy_data.xlsx')
 	#print(inChiKeys)
-	met_dicts = InChiKeyToInChi(inChiKeys)
+	met_dicts, troubles = InChiKeyToInChi(inChiKeys)
+	
 
+	#Convert InChi to Mol
+	
+	mol_list = []
+	for d in met_dicts:
+		inchi = str(d['InChi'])
+		
+		if not inchi == '>':
+			mol = Chem.MolFromInchi(inchi,sanitize=False,removeHs=False,logLevel=None,treatWarningAsError=False)
+			mol_list.append(mol)
+		else:
+			continue
 
+	#Convert mol objects to bit vectors
+	
+	fps = [FingerprintMols.FingerprintMol(x) for x in mol_list]
+	#print(fps)
+	
+	#Compute pairwise Tanimoto similarity for each pair of fingerprints
+	#tanimotos is a list of lists
+	
+	#Construct a list of pairs to back out the compounds that are similar
+	tanimotos = []
+	for i in range(len(fps)-1):
+		for j in range(i+1,len(fps)):
+			temp_dict = dict([("InChiKeys",[Chem.InchiToInchiKey(Chem.MolToInchi(mol_list[i])),Chem.InchiToInchiKey(Chem.MolToInchi(mol_list[j]))]),("Tanimoto_coeff",DataStructs.FingerprintSimilarity(fps[i],fps[j]))])
+		tanimotos.append(temp_dict)
+	
+	#tanimotos is a list of dicts. Now want to search the tanimoto coeff key for highest values
+	tanimotos.sort(key=lambda x:x['Tanimoto_coeff'])
+	print(tanimotos[-5:])
+	
 
 if __name__ == "__main__":
 	main()
